@@ -158,15 +158,24 @@ http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/37093
 http://185.165.243.104:25461/Romário/Romário/141885
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/762
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",Canal X1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JHwIglW.jpg" group-title="TV ABERTA",ENGENHEIROS DO HAWAII [SHOW 24H]
+http://elitex.me:80/Luizdalceno/0DoUa4EIkP/11144
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JHwIglW.jpg" group-title="TV ABERTA",KID ABELHA ACUSTICO [SHOW 24H]
+http://elitex.me:80/Luizdalceno/0DoUa4EIkP/11143
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JHwIglW.jpg" group-title="TV ABERTA",QUEEN: Freddie Mercury [SHOW 24H]
+http://elitex.me:80/Luizdalceno/0DoUa4EIkP/11142
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",NOVELA JESUS 24H
+http://elitex.me:80/Luizdalceno/0DoUa4EIkP/9844
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",CanAl +18
 http://servidoriptv.mine.nu:37001/Davi/123/2627
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",Canal X2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",CaNal +18
 http://servidoriptv.mine.nu:37001/Davi/123/4314
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",Canal X3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",CAnal +18
 http://servidoriptv.mine.nu:37001/Davi/123/3393
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",Canal X4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",canal +18
 http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/52284
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",Canal X5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",CanaL +18
 http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/52280
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOW
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/795
