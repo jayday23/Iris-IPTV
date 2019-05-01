@@ -126,8 +126,8 @@ http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/42654
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE SKY Factory
 http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/40216
 
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo Nordeste
-http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/5073
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo SP
+http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/5095
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo RJ
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/828
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
@@ -147,11 +147,15 @@ http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/5294
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BANDNEWS
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/5162
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BandNews
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/37126
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/38391
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BANDNEWS
+http://185.165.243.104:25461/Romário/Romário/141968
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBONEWS
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/1498
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GloboNews
 http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/37093
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GloboNews
+http://185.165.243.104:25461/Romário/Romário/141885
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/762
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",Canal X1
