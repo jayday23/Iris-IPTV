@@ -123,8 +123,22 @@ http://servidoriptv.mine.nu:37001/Davi/123/2649
 http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/40617
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE+
 http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/42654
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE SKY
+http://listaccess.me:8880/miguel/123/9092
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE SKY Factory
 http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/40216
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",CINE TERROR
+http://elitex.me:80/Luizdalceno/0DoUa4EIkP/16705
+#EXTINF:-1 tvg-logo="https://i.imgur.com/04oxrdG.jpg" group-title="CANAIS DE SÉRIES",CINE FAMÍLIA
+http://xx.servelive.net:80/franciele/franciele1234/16456
+#EXTINF:-1 tvg-logo="https://i.imgur.com/59qPSlq.jpg" group-title="CANAIS DE SÉRIES",CINE INFANTIL
+http://xx.servelive.net:80/franciele/franciele1234/15426
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JcGnMqT.jpg" group-title="CANAIS DE SÉRIES",CINE RELIGIOSO
+http://xx.servelive.net:80/franciele/franciele1234/22887
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6e31zD.jpg" group-title="CANAIS DE SÉRIES",CINE RISOS
+http://xx.servelive.net:80/franciele/franciele1234/42315
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINEMA 24H
+http://listaccess.me:8880/miguel/123/9093
 
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo SP
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/5095
