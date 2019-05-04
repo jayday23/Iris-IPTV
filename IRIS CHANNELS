@@ -1,32 +1,44 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mRaGIqT.png" group-title="TELECINES",AMC
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36928
+http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/5076
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AE-Mundo.png" group-title="TELECINES",A&E
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/40263
+http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/4203
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",CINEMAX
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/1495
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",Cinemax
 http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/40261
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",HBO
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/1850
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBO 2
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",hBO
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36964
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",hBO
+http://185.165.243.104:25461/Romário/Romário/153739
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBo 2
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/819
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",hBO 2
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36966
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",hBo 2
+http://185.165.243.104:25461/Romário/Romário/141854
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SIGNATURE
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/4138
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SignatUre
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/41488
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Plus.png" group-title="TELECINES",HBO PLUS
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/813
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO PluS
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/41487
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Family.png" group-title="TELECINES",HBO FAMILY
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/817
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NTB9nGk.png" group-title="TELECINES",HBO PlUS E
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/37083
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Family.png" group-title="TELECINES",HBO Family
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36965
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX.png" group-title="TELECINES",MAX
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/1497
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX.png" group-title="TELECINES",Max
 http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36913
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX-Prime.png" group-title="TELECINES",MAX PRIME
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/1487
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c8TPuLy.png" group-title="TELECINES",MAX PRIME E
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX-Prime.png" group-title="TELECINES",MAX Prime
 http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/37074
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/maxup.png" group-title="TELECINES",MAX UP
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/1486
@@ -75,19 +87,23 @@ http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36935
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/734
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",Tcm
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36935/37037
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/37037
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TNT
-http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/724
+http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/723
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",tNt
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36935/36934
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/51119
 #EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk" group-title="TELECINES",TNT SÉRIES
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/721
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",AXN
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/892
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",Axn
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36991
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FOX Premium 1
-http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/843
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Wh3INC.png" group-title="CANAIS DE SÉRIES",FOX Premium 2
+http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/4144
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",Fox Premium 1
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/50750
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Wh3INC.png" group-title="CANAIS DE SÉRIES",FoX Premium 2
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/842
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",FX
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/832
@@ -100,7 +116,7 @@ http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/38427
 #EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX LIFE
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/839
 #EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX Life
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/50748
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/50749
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Sony.png" group-title="CANAIS DE SÉRIES",SONY
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/880
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Sony.png" group-title="CANAIS DE SÉRIES",Sony
@@ -111,22 +127,18 @@ http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/740
 http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36940
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",STUDIO UNIVERSAL
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/1480
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",Studio Universal
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36904
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",UNIVERSAL CHANNEL
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/710
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",Universal Channel
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36904
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",WARNER CHANNEL
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/705
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",Fox Premium Cinema
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/42726
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",NOSSO CINE+ HD
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",Warner Channel
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36930
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE+ HD
 http://servidoriptv.mine.nu:37001/Davi/123/2649
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y1ISh2s.jpg" group-title="CANAIS DE SÉRIES",CINE COMÉDIA
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/40617
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE+
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/42654
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE SKY
-http://listaccess.me:8880/miguel/123/9092
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE SKY Factory
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/40216
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",CINE TERROR
 http://elitex.me:80/Luizdalceno/0DoUa4EIkP/16705
 #EXTINF:-1 tvg-logo="https://i.imgur.com/04oxrdG.jpg" group-title="CANAIS DE SÉRIES",CINE FAMÍLIA
@@ -137,6 +149,10 @@ http://xx.servelive.net:80/franciele/franciele1234/15426
 http://xx.servelive.net:80/franciele/franciele1234/22887
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b6e31zD.jpg" group-title="CANAIS DE SÉRIES",CINE RISOS
 http://xx.servelive.net:80/franciele/franciele1234/42315
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1ISh2s.jpg" group-title="CANAIS DE SÉRIES",CINE COMÉDIA
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/40617
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE SKY
+http://listaccess.me:8880/miguel/123/9092
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINEMA 24H
 http://listaccess.me:8880/miguel/123/9093
 
