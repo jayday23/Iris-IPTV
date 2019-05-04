@@ -171,21 +171,19 @@ http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/758
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Viva.png" group-title="TV ABERTA",VIVA
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/707
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",TV CULTURA
-http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/5656
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EjLR2DO.png" group-title="TV ABERTA",TV SENADO
-http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/5294
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BANDNEWS
+http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/5161
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BandNews
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/5162
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BandNews
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/42411
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BANDNEWS
-http://185.165.243.104:25461/Romário/Romário/141968
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBONEWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BandNEws
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/50654
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BanDNews
+http://clienteworld.com:8080/guilherme/1234/8149
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GloboNewS
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/1498
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GloboNews
-http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/37093
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GloboNews
-http://185.165.243.104:25461/Romário/Romário/141885
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoboNews
+http://tv.factoryiptv.com:80/8zwhjQ7AF/4042680773/36917
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GloboNeWS
+http://clienteworld.com:8080/guilherme/1234/8090
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/762
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHwIglW.jpg" group-title="TV ABERTA",ENGENHEIROS DO HAWAII [SHOW 24H]
@@ -194,9 +192,6 @@ http://elitex.me:80/Luizdalceno/0DoUa4EIkP/11144
 http://elitex.me:80/Luizdalceno/0DoUa4EIkP/11143
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHwIglW.jpg" group-title="TV ABERTA",QUEEN: Freddie Mercury [SHOW 24H]
 http://elitex.me:80/Luizdalceno/0DoUa4EIkP/11142
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",NOVELA JESUS 24H
-http://elitex.me:80/Luizdalceno/0DoUa4EIkP/9844
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",CanAl +18
 http://servidoriptv.mine.nu:37001/Davi/123/2627
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U2rNNFg.jpg" group-title="TV ABERTA",CaNal +18
