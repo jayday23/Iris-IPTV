@@ -166,10 +166,14 @@ http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/5161
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/5162
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BandNEws
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/50654
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BandNEWs
+http://psrv.io:80/CaS01XxWvu4/6879304603/18725
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GloboNeWS
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/1498
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoboNews
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/36917
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoboNEws
+http://psrv.io:80/CaS01XxWvu4/6879304603/18651
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
 http://cdn.miptv.ws:8880/JpeQDe4IaL/TOZGoKuhmY/762
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOW
