@@ -56,8 +56,6 @@ http://cdn.miptv.ws:8880/Adrianovip/vip/1483
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/36944
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SpaCE
 http://cdn.miptv.ws:8880/Adrianovip/vip/752
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",Space
-http://niptv.biz:25461/maujr/jqfryr/28
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Action.png" group-title="TELECINES",TELECINE ACTION
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/36939
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Action.png" group-title="TELECINES",TELECINE Action
@@ -90,8 +88,6 @@ http://cdn.miptv.ws:8880/Adrianovip/vip/734
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/36934
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",tNt
 http://cdn.miptv.ws:8880/Adrianovip/vip/1868
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TNt
-http://niptv.biz:25461/maujr/jqfryr/148
 #EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk" group-title="TELECINES",TNT SERIES
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/51121
 
@@ -194,16 +190,12 @@ http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/42903
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/50654
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
 http://cdn.miptv.ws:8880/Adrianovip/vip/5162
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",Band NEWs
-http://niptv.biz:25461/maujr/jqfryr/65
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BAnd News
 http://listaccess.me:8880/luizantonio19/luizantonio190/7481
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/36917
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",Globo NeWS
 http://cdn.miptv.ws:8880/Adrianovip/vip/1498
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo NEws
-http://niptv.biz:25461/maujr/jqfryr/110
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo NEWs
 http://listaccess.me:8880/luizantonio19/luizantonio190/2273
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
