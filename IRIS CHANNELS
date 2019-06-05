@@ -186,6 +186,8 @@ http://tv.factoryiptv.com:80/WWZ44ZGs5/controliptv/41518
 http://svrjupiter.live:80/renato@papabrunos.pt/TXE90DNTB/144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",TV CULTURA
 http://tv.factoryiptv.com:80/WWZ44ZGs5/controliptv/42903
+#EXTINF:-1 tvg-logo="ozCnnDg.png" group-title="TV ABERTA",TV SENADO
+http://svrjupiter.live:80/renato@papabrunos.pt/TXE90DNTB/3630
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BAND NEWS
 http://tv.factoryiptv.com:80/WWZ44ZGs5/controliptv/50654
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
