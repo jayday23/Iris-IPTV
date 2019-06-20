@@ -171,23 +171,23 @@ http://listaccess.me:8880/miguel/123/9093
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo SP
 http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/51149
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo RJ
-http://tv.factoryiptv.com:80/ariadne/ariadne/36968
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/36968
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
-http://tv.factoryiptv.com:80/ariadne/ariadne/36945
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/36945
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
 http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/50652
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",Record
-http://tv.factoryiptv.com:80/ariadne/ariadne/38421
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/38421
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",Rede TV
-http://tv.factoryiptv.com:80/ariadne/ariadne/41518
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/41518
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Viva.png" group-title="TV ABERTA",VIVA
 http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/36931
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",TV CULTURA
-http://tv.factoryiptv.com:80/ariadne/ariadne/42903
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/42903
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",TV SENADO
 http://tv.factoryiptv.com:80/ariadne/ariadne/57266
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BAND NEWS
-http://tv.factoryiptv.com:80/ariadne/ariadne/50654
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/50654
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
 http://bluereds.xyz:80/fernando/fernando123/8136
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BAnd News
@@ -195,7 +195,7 @@ http://pndxt01.dyndns.org:25461/fabio01/fabio01/3913
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",Band NEws
 http://srv.mtvs.me:8880/helioabussaf/$2y$10$IKrSFpYCPqoH2UZfSapJreVmXTYX6LnAdp2Cqzit3GJH570sn8HfO/28648
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWS
-http://tv.factoryiptv.com:80/ariadne/ariadne/36917
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/36917
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",Globo NeWS
 http://bluereds.xyz:80/fernando/fernando123/1204
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo NEWs
@@ -203,13 +203,13 @@ http://pndxt01.dyndns.org:25461/fabio01/fabio01/7933
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
 http://srv.mtvs.me:8880/helioabussaf/$2y$10$IKrSFpYCPqoH2UZfSapJreVmXTYX6LnAdp2Cqzit3GJH570sn8HfO/28811
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
-http://tv.factoryiptv.com:80/ariadne/ariadne/37050
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/37050
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAL
-http://tv.factoryiptv.com:80/ariadne/ariadne/40260
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/40260
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOW
-http://tv.factoryiptv.com:80/ariadne/ariadne/41493
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/41493
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV
-http://tv.factoryiptv.com:80/ariadne/ariadne/40266
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/40266
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Band-Sports.png" group-title="ESPORTES",BAND SPORTS
 http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/36989
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Band-Sports.png" group-title="ESPORTES",Band Sports
