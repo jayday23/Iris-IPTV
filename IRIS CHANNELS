@@ -151,30 +151,14 @@ http://tv.factoryiptv.com:80/ariadne/ariadne/36904
 http://cdn.miptv.ws:8880/ncbbr/ghfgtr/705
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",Warner Channel
 http://tv.factoryiptv.com:80/ariadne/ariadne/36930
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE Nacionais 24H
-http://tvxtream.site:80/ujdrqvrk/ap5dfou17174
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",Cine Action 24H
-http://tvxtream.site:80/ujdrqvrk/ap5dfou1/3473
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",Cine Aventura 24H
-http://tvxtream.site:80/ujdrqvrk/ap5dfou1/5437
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE+ HD
 http://servidoriptv.mine.nu:37001/Davi/123/2649
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE FAMÍLIA
 http://bluereds.xyz:80/fernando/fernando123/16456
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",Cine Family 24H
-http://tvxtream.site:80/ujdrqvrk/ap5dfou1/3472
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE INFANTIL
 http://bluereds.xyz:80/fernando/fernando123/15426
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",Cine Kids 24H
-http://tvxtream.site:80/ujdrqvrk/ap5dfou1/3470
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",Cine Fun 24H
-http://tvxtream.site:80/ujdrqvrk/ap5dfou1/3471
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",CINE TERROR
 http://elitex.me:80/Luizdalceno/0DoUa4EIkP/16705
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",Cine Drama 24H
-http://tvxtream.site:80/ujdrqvrk/ap5dfou1/5849
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",Cine Horror 24H
-http://tvxtream.site:80/ujdrqvrk/ap5dfou1/3469
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1ISh2s.jpg" group-title="CANAIS DE SÉRIES",CINE COMÉDIA
 http://tv.factoryiptv.com:80/ariadne/ariadne/40617
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE SKY
@@ -185,23 +169,23 @@ http://listaccess.me:8880/miguel/123/9093
 --------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo SP
-http://tvxtream.site:80/ujdrqvrk/ap5dfou1/2609
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/51149
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo RJ
 http://tv.factoryiptv.com:80/ariadne/ariadne/36968
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
 http://tv.factoryiptv.com:80/ariadne/ariadne/36945
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
-http://tvxtream.site:80/ujdrqvrk/ap5dfou1/1978
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/50652
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",Record
 http://tv.factoryiptv.com:80/ariadne/ariadne/38421
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",Rede TV
 http://tv.factoryiptv.com:80/ariadne/ariadne/41518
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Viva.png" group-title="TV ABERTA",VIVA
-http://tvxtream.site:80/ujdrqvrk/ap5dfou1/144
+http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/36931
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",TV CULTURA
 http://tv.factoryiptv.com:80/ariadne/ariadne/42903
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",TV SENADO
-http://tvxtream.site:80/ujdrqvrk/ap5dfou1/3630
+http://tv.factoryiptv.com:80/ariadne/ariadne/57266
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BAND NEWS
 http://tv.factoryiptv.com:80/ariadne/ariadne/50654
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
@@ -229,7 +213,7 @@ http://tv.factoryiptv.com:80/ariadne/ariadne/40266
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Band-Sports.png" group-title="ESPORTES",BAND SPORTS
 http://tv.factoryiptv.com:80/ECHjGUn82/controliptv/36989
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Band-Sports.png" group-title="ESPORTES",Band Sports
-http://tvxtream.site:80/ujdrqvrk/ap5dfou1/1977
+http://bluereds.xyz:80/fernando/fernando123/8134
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lq0cmCZ.jpg" group-title="SERIADOS",PEGADINHAS SILVIO SANTOS
 http://elitex.me:80/Luizdalceno/0DoUa4EIkP/10795
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lq0cmCZ.jpg" group-title="SERIADOS",PEGADINHAS JOAO KLEBER
