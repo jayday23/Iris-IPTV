@@ -174,18 +174,18 @@ http://listaccess.me:8880/miguel/123/9093
 
 --------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo SP
-http://tv.factoryiptv.com:80/bruno/bruno123/51149
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo RJ
-http://tv.factoryiptv.com:80/bruno/bruno123/36968
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO SP
+http://tv.factoryiptv.com:80/bruno/bruno123/37090
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO Nordeste
+http://tv.factoryiptv.com:80/bruno/bruno123/37092
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
-http://tv.factoryiptv.com:80/bruno/bruno123/36945
+http://tv.factoryiptv.com:80/bruno/bruno123/41371
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
-http://tv.factoryiptv.com:80/bruno/bruno123/50652
+http://tv.factoryiptv.com:80/bruno/bruno123/41530
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",Record
 http://tv.factoryiptv.com:80/bruno/bruno123/38421
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",Rede TV
-http://tv.factoryiptv.com:80/bruno/bruno123/41518
+http://tv.factoryiptv.com:80/bruno/bruno123/51024
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Viva.png" group-title="TV ABERTA",VIVA
 http://tv.factoryiptv.com:80/bruno/bruno123/36931
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",TV CULTURA
