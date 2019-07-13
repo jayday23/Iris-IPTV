@@ -216,20 +216,20 @@ http://tv.factoryiptv.com:80/bartolomeu/bartolomeu123/50674
 http://tv.factoryiptv.com:80/douglas/douglas/50858
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV
 http://tv.factoryiptv.com:80/bartolomeu/bartolomeu123/36910
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SporTV 3
-http://bluereds.xyz:80/ariane/ariane123/7932
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SPORTV 3
 http://tv.factoryiptv.com:80/douglas/douglas/37006
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SporTV 3
+http://bluereds.xyz:80/ariane/ariane123/7932
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTV 2
-http://bluereds.xyz:80/ariane/ariane123/7933
+http://elitex.me:80/Jeanhrd/Jean2034/172
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPORTV
-http://bluereds.xyz:80/ariane/ariane123/7930
+http://elitex.me:80/Jeanhrd/Jean2034/16847
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Band-Sports.png" group-title="ESPORTES",BAND SPORTS
 http://tv.factoryiptv.com:80/bartolomeu/bartolomeu123/36989
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Band-Sports.png" group-title="ESPORTES",Band Sports
 http://bluereds.xyz:80/ariane/ariane123/8134
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuBBJ9H.png" group-title="ESPORTES",PREMIERE CLUBES
-http://servidoriptv.mine.nu:37001/Davi/123/6559
+http://cdn.miptv.ws:8880/ncbbr/ghfgtr/780
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lq0cmCZ.jpg" group-title="SERIADOS",PEGADINHAS SILVIO SANTOS
 http://elitex.me:80/Jeanhrd/Jean2034/10795
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lq0cmCZ.jpg" group-title="SERIADOS",PEGADINHAS JOAO KLEBER
