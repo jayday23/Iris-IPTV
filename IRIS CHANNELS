@@ -183,7 +183,7 @@ http://cdn.miptv.ws:8880/ncbbr/ghfgtr/829
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/41371
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/37127
-#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",Band
 http://cdn.miptv.ws:8880/ncbbr/ghfgtr/887
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",Record
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/38421
