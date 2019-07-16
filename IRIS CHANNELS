@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CINEMA",CINQUENTA TONS DE CINZA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CINEMA",50 TONS DE CINZA
 http://cdn.miptv.ws:8880/movie/ncbbr/ghfgtr/5586.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CINEMA",CINQUENTA TONS MAIS ESCUROS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CINEMA",50 TONS MAIS ESCUROS
 http://cdn.miptv.ws:8880/movie/ncbbr/ghfgtr/5345.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CINEMA",CINQUENTA TONS DE LIBERDADE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CINEMA",50 TONS DE LIBERDADE
 http://cdn.miptv.ws:8880/movie/ncbbr/ghfgtr/5384.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mRaGIqT.png" group-title="TELECINES",AMC
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/41087
