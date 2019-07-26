@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CINEMA",50 TONS DE CINZA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP3Nsf5.jpg" group-title="CINEMA",50 TONS DE CINZA
 http://cdn.miptv.ws:8880/movie/ncbbr/ghfgtr/5586.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CINEMA",50 TONS MAIS ESCUROS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP3Nsf5.jpg" group-title="CINEMA",50 TONS MAIS ESCUROS
 http://cdn.miptv.ws:8880/movie/ncbbr/ghfgtr/5345.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CINEMA",50 TONS DE LIBERDADE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP3Nsf5.jpg" group-title="CINEMA",50 TONS DE LIBERDADE
 http://cdn.miptv.ws:8880/movie/ncbbr/ghfgtr/5384.mkv
-#EXTINF:-1 group-title="CINEMA",Interestelar 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP3Nsf5.jpg" group-title="CINEMA",Interestelar 4K
 http://psrv.io:80/movie/9rbagk344Vy/9348038489/21488.mp4
-#EXTINF:-1 group-title="CINEMA",Nasce uma Estrela 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP3Nsf5.jpg" group-title="CINEMA",Nasce uma Estrela 4K
 http://psrv.io:80/movie/9rbagk344Vy/9348038489/21493.mp4
-#EXTINF:-1 group-title="CINEMA",A Freira 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP3Nsf5.jpg" group-title="CINEMA",A Freira 4K
 http://psrv.io:80/movie/9rbagk344Vy/9348038489/21472.mp4
-#EXTINF:-1 group-title="CINEMA",Megatubarao 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP3Nsf5.jpg" group-title="CINEMA",Megatubarao 4K
 http://psrv.io:80/movie/9rbagk344Vy/9348038489/21492.mp4
-#EXTINF:-1 group-title="CINEMA",Bohemian Rhapsody 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP3Nsf5.jpg" group-title="CINEMA",Bohemian Rhapsody 4K
 http://psrv.io:80/movie/9rbagk344Vy/9348038489/21477.mp4
-#EXTINF:-1 group-title="CINEMA",No Olho do Furacao 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP3Nsf5.jpg" group-title="CINEMA",No Olho do Furacao 4K
 http://psrv.io:80/movie/9rbagk344Vy/9348038489/21494.mp4
-#EXTINF:-1 group-title="CINEMA",A MULA 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP3Nsf5.jpg" group-title="CINEMA",A MULA 4K
 http://psrv.io:80/movie/9rbagk344Vy/9348038489/22678.mp4
-#EXTINF:-1 group-title="CINEMA",O Misterio do Relogio na Parede 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP3Nsf5.jpg" group-title="CINEMA",O Misterio do Relogio na Parede 4K
 http://psrv.io:80/movie/9rbagk344Vy/9348038489/21496.mp4
-#EXTINF:-1 group-title="CINEMA",O Primeiro Homem
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP3Nsf5.jpg" group-title="CINEMA",O Primeiro Homem
 http://psrv.io:80/movie/9rbagk344Vy/9348038489/21497.mp4
 --------------------------------------------------------------------------------------------------
 
