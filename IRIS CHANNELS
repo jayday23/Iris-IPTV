@@ -78,7 +78,7 @@ http://streamtv.com.br:80/natalie10/natalie10/129
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Fun.png" group-title="TELECINES",TELECINE FUN
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/36938
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Fun.png" group-title="TELECINES",TELECINE Fun
-http://elitex.me:80/Jeanhrd/Jean2034/293
+http://streamtv.com.br:80/natalie10/natalie10/128
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine_Pipoca_HD.jpg" group-title="TELECINES",TELECINE PIPOCA
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/36937
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine_Pipoca_HD.jpg" group-title="TELECINES",TELECINE PipocA
@@ -232,13 +232,19 @@ http://bluereds.xyz:80/jeiva45/s2323454545/7986
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV
 http://bluereds.xyz:80/jeiva45/s2323454545/7988
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SPORTV 3
+http://streamtv.com.br:80/natalie10/natalie10/135
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SPOrTV 3
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/37006
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SporTV 3
 http://bluereds.xyz:80/jeiva45/s2323454545/7932
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTV 2
+http://streamtv.com.br:80/natalie10/natalie10/136
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPOrTV 2
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/37044
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTv 2
 http://bluereds.xyz:80/jeiva45/s2323454545/7933
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPOrTv
+http://streamtv.com.br:80/natalie10/natalie10/134
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SporTV
 http://tv.factoryiptv.com:80/FX0zyFP0np/factoryiptv/37255
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPORTV
