@@ -1,13 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Awlo9wd.png" group-title="CINEMA",50 TONS DE CINZA (2015)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/22871.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Awlo9wd.png" group-title="CINEMA",50 TONS DE PRETO (2016)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/6764.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Awlo9wd.png" group-title="CINEMA",50 TONS MAIS ESCUROS (2017)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/22872.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Awlo9wd.png" group-title="CINEMA",50 TONS DE LIBERDADE (2018)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/22870.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tB7AaUS.png" group-title="CINEMA",Bohemian Rhapsody
+http://tv.factoryiptv.com:80/movie/alex21/alex21/60128.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tB7AaUS.png" group-title="CINEMA",A Caminho de Casa
+http://tv.factoryiptv.com:80/movie/alex21/alex21/56938.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tB7AaUS.png" group-title="CINEMA",A Casa do Medo
+http://tv.factoryiptv.com:80/movie/alex21/alex21/56978.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tB7AaUS.png" group-title="CINEMA",A Chegada
+http://tv.factoryiptv.com:80/movie/alex21/alex21/48191.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tB7AaUS.png" group-title="CINEMA",A Cura
+http://tv.factoryiptv.com:80/movie/alex21/alex21/49723.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tB7AaUS.png" group-title="CINEMA",A Freira
+http://tv.factoryiptv.com:80/movie/alex21/alex21/49774.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tB7AaUS.png" group-title="CINEMA",A Maldicao De Chucky
+http://tv.factoryiptv.com:80/movie/alex21/alex21/48194.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tB7AaUS.png" group-title="CINEMA",A Mula
+http://tv.factoryiptv.com:80/movie/alex21/alex21/58051.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tB7AaUS.png" group-title="CINEMA",A Inudacao
+http://tv.factoryiptv.com:80/movie/alex21/alex21/48382.mp4
 
 --------------------------------------------------------------------------------------------------
 
