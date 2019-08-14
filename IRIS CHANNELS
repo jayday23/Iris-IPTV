@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",BOHEMIAN RHAPSODY (2018)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/49643.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Apenas um Garoto em Nova York
+http://srv.mtvs.me:8880/movie/lurdes/1234/12305.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Um Lugar Silencioso
 http://listaccess.me:8880/movie/miguel/123/9800.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Papillon
@@ -30,6 +30,8 @@ http://listaccess.me:8880/movie/miguel/123/2730.mp4
 http://listaccess.me:8880/movie/miguel/123/10820.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",60 Minutos para Morrer
 http://listaccess.me:8880/movie/miguel/123/4283.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",BOHEMIAN RHAPSODY (2018)
+http://bluereds.xyz:80/movie/jeiva45/s2323454545/49643.mp4
 
 --------------------------------------------------------------------------------------------------
 
