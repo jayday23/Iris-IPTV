@@ -1,49 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",BOHEMIAN RHAPSODY (2018)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",BOHEMIAN RHAPSODY (2018)
 http://bluereds.xyz:80/movie/jeiva45/s2323454545/49643.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",RHAPSODY BOHEMIAN
-http://elitex.me:80/movie/Jeanhrd/Jean2034/11204.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",Bohemian Rhapsody
-http://listaccess.me:8880/movie/miguel/123/19824.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",12 Heróis
-http://srv.mtvs.me:8880/movie/lurdes/1234/15906.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",A PROCURA DA LIBERDADE
-http://elitex.me:80/movie/Jeanhrd/Jean2034/9949.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",AS FANTÁSTICAS AVENTURAS DE SPIROU E FANTÁSIO (2019)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/57279.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",A INUNDAÇÃO (2017)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/33201.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",QUASE FAMOSOS (2000)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/42308.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",SE DEUS VIER QUE VENHA ARMADO
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/42388.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",AS APIMENTADAS 2: MANDANDO VER
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/33214.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",AS APIMENTADAS 4: ENTRAR PARA GANHAR
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/33215.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",ENTRE MUNDOS (2019)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/57242.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",PRIMEIRA CHEGADA (2018)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/42468.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",A MANSAO
-http://elitex.me:80/movie/Jeanhrd/Jean2034/9529.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",A MÁQUINA DE LEMBRANÇAS DUAL
-http://elitex.me:80/movie/Jeanhrd/Jean2034/16744.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",A MELHOR ESCOLHA
-http://elitex.me:80/movie/Jeanhrd/Jean2034/8110.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",A MUMIA 2017
-http://elitex.me:80/movie/Jeanhrd/Jean2034/6042.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",A NOITE DO JOGO
-http://elitex.me:80/movie/Jeanhrd/Jean2034/8688.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",LENDA URBANA 2 (2000)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/6895.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",GOSTO SE DISCUTE - 2017 (720p)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/4583.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",LENDA URBANA (1998)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/6894.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJOqfq.png" group-title="CINEMA",REZA A LENDA (2016)
-http://bluereds.xyz:80/movie/jeiva45/s2323454545/42375.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Um Lugar Silencioso
+http://listaccess.me:8880/movie/miguel/123/9800.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Papillon
+http://listaccess.me:8880/movie/miguel/123/20486.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Missao Impossivel Fallout
+http://listaccess.me:8880/movie/miguel/123/14085.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Primeiro Homem
+http://listaccess.me:8880/movie/miguel/123/20246.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Primeiro Amor
+http://listaccess.me:8880/movie/miguel/123/10447.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Infiltrado na Klan
+http://listaccess.me:8880/movie/miguel/123/20605.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Nasce Uma Estrela
+http://listaccess.me:8880/movie/miguel/123/18368.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Não Vai Dar
+http://listaccess.me:8880/movie/miguel/123/17097.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Nao Aceitamos Devolucoes
+http://listaccess.me:8880/movie/miguel/123/13640.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Muito Bem Acompanhada
+http://listaccess.me:8880/movie/miguel/123/13629.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Mudanca de Habito 1
+http://listaccess.me:8880/movie/miguel/123/11789.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Minha mãe é uma peça 2
+http://listaccess.me:8880/movie/miguel/123/2730.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Meu Nome é Rádio
+http://listaccess.me:8880/movie/miguel/123/10820.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",60 Minutos para Morrer
+http://listaccess.me:8880/movie/miguel/123/4283.mp4
 
 --------------------------------------------------------------------------------------------------
 
@@ -270,8 +256,12 @@ http://bluereds.xyz:80/jeiva45/s2323454545/7930
 http://bluereds.xyz:80/jeiva45/s2323454545/7955
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Fox-Sports.png" group-title="ESPORTES",FOX SPORTS
 http://bluereds.xyz:80/jeiva45/s2323454545/8062
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYFVbld.png" group-title="TV ABERTA",Adulto +18
+http://bluereds.xyz:80/jeiva45/s2323454545/45817
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYFVbld.png" group-title="TV ABERTA",ADULto +18
-http://servidoriptv.mine.nu:37001/Davi/123/3393
+http://bluereds.xyz:80/jeiva45/s2323454545/45830
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYFVbld.png" group-title="TV ABERTA",ADULtO +18
+http://bluereds.xyz:80/jeiva45/s2323454545/45820
 
 --------------------------------------------------------------------------------------------------
 
