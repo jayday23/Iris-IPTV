@@ -159,15 +159,15 @@ http://srv.mtvs.me:8880/lurdes/1234/28653
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",Axn
 http://bluereds.xyz:80/jeiva45/s2323454545/8141
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",FX
-http://streamtv.com.br:80/erick/123/190
+http://srv.mtvs.me:8880/lurdes/1234/28576
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",Fx
 http://bluereds.xyz:80/jeiva45/s2323454545/8056
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FOX PREMIUM 1
-http://streamtv.com.br:80/erick/123/195
+http://srv.mtvs.me:8880/lurdes/1234/28587
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Wh3INC.png" group-title="CANAIS DE SÉRIES",Fox Premium 2
 http://bluereds.xyz:80/jeiva45/s2323454545/8064
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",Tbs
-http://streamtv.com.br:80/erick/123/131
+http://srv.mtvs.me:8880/lurdes/1234/28476
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",TBS
 http://bluereds.xyz:80/jeiva45/s2323454545/7924
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE+ HD
@@ -187,7 +187,7 @@ http://listaccess.me:8880/miguel/123/9092
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO NORDESTE
 http://bluereds.xyz:80/jeiva45/s2323454545/8044
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO SP
-http://streamtv.com.br:80/erick/123/275
+http://srv.mtvs.me:8880/lurdes/1234/28334
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RJ
 http://bluereds.xyz:80/jeiva45/s2323454545/8038
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GLOBOSAT
@@ -201,7 +201,7 @@ http://bluereds.xyz:80/jeiva45/s2323454545/7951
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Viva.png" group-title="TV ABERTA",VIVA
 http://srv.mtvs.me:8880/lurdes/1234/28437
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE TV
-http://streamtv.com.br:80/erick/123/1561
+http://srv.mtvs.me:8880/lurdes/1234/28494
 #EXTINF:-1 tvg-logo="https://i.imgur.com/psIffwK.png" group-title="TV ABERTA",TV APARECIDA
 http://bluereds.xyz:80/jeiva45/s2323454545/7900
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YrVFhaB.png" group-title="TV ABERTA",TV BRASIL
