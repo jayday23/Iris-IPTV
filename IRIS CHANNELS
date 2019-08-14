@@ -36,11 +36,11 @@ http://bluereds.xyz:80/movie/jeiva45/s2323454545/49643.mp4
 --------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mRaGIqT.png" group-title="TELECINES",AMC
-http://streamtv.com.br:80/erick/123/232
+http://srv.mtvs.me:8880/lurdes/1234/28659
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AE-Mundo.png" group-title="TELECINES",A&E
-http://streamtv.com.br:80/erick/123/233
+http://srv.mtvs.me:8880/lurdes/1234/28661
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",CINEMAX
-http://streamtv.com.br:80/erick/123/219
+http://srv.mtvs.me:8880/lurdes/1234/28632
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",Cinemax
 http://bluereds.xyz:80/jeiva45/s2323454545/8120
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",HBO
