@@ -64,7 +64,7 @@ http://streamtv.com.br:80/erick/123/171
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Family.png" group-title="TELECINES",HBO Family
 http://bluereds.xyz:80/jeiva45/s2323454545/8013
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX.png" group-title="TELECINES",MAX
-http://streamtv.com.br:80/erick/123/163
+http://srv.mtvs.me:8880/lurdes/1234/28546
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX.png" group-title="TELECINES",Max
 http://bluereds.xyz:80/jeiva45/s2323454545/7997
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX-Prime.png" group-title="TELECINES",MAX PRIME
@@ -108,9 +108,9 @@ http://bluereds.xyz:80/jeiva45/s2323454545/7915
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Premium.png" group-title="TELECINES",TELECINE PremiuM
 http://bluereds.xyz:80/jeiva45/s2323454545/7913
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Premium.png" group-title="TELECINES",TELECINE Premium
-http://streamtv.com.br:80/erick/123/126
+
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Touch.png" group-title="TELECINES",TELECINE TOUCH
-http://streamtv.com.br:80/erick/123/125
+http://srv.mtvs.me:8880/lurdes/1234/28463
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Touch.png" group-title="TELECINES",TELECINE ToucH
 http://bluereds.xyz:80/jeiva45/s2323454545/7911
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
