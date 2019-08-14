@@ -135,27 +135,27 @@ http://srv.mtvs.me:8880/lurdes/1234/28637
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Sony.png" group-title="CANAIS DE SÉRIES",SONY
 http://bluereds.xyz:80/jeiva45/s2323454545/8125
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Fox.png" group-title="CANAIS DE SÉRIES",Fox
-http://streamtv.com.br:80/erick/123/197
+http://srv.mtvs.me:8880/lurdes/1234/28999
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Fox.png" group-title="CANAIS DE SÉRIES",FOX
 http://bluereds.xyz:80/jeiva45/s2323454545/8070
 #EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX LIFE
-http://streamtv.com.br:80/erick/123/196
+http://srv.mtvs.me:8880/lurdes/1234/28588
 #EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX Life
 http://bluereds.xyz:80/jeiva45/s2323454545/1221
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",STUDIO UNIVERSAL
-http://streamtv.com.br:80/erick/123/133
+http://srv.mtvs.me:8880/lurdes/1234/28479
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",Studio Universal
 http://bluereds.xyz:80/jeiva45/s2323454545/7928
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",UNIVERSAL CHANNEL
-http://streamtv.com.br:80/erick/123/118
+http://srv.mtvs.me:8880/lurdes/1234/28443
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",Universal Channel
 http://bluereds.xyz:80/jeiva45/s2323454545/6699
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",WARNER CHANNEL
-http://streamtv.com.br:80/erick/123/115
+http://srv.mtvs.me:8880/lurdes/1234/28435
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",Warner Channel
 http://bluereds.xyz:80/jeiva45/s2323454545/7883
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",AXN
-http://streamtv.com.br:80/erick/123/229
+http://srv.mtvs.me:8880/lurdes/1234/28653
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",Axn
 http://bluereds.xyz:80/jeiva45/s2323454545/8141
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",FX
@@ -196,14 +196,10 @@ http://bluereds.xyz:80/jeiva45/s2323454545/7999
 http://bluereds.xyz:80/jeiva45/s2323454545/7941
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",Band
 http://bluereds.xyz:80/jeiva45/s2323454545/8138
-#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
-http://streamtv.com.br:80/erick/123/228
-#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECORD
-http://streamtv.com.br:80/erick/123/141
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",Record
 http://bluereds.xyz:80/jeiva45/s2323454545/7951
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Viva.png" group-title="TV ABERTA",VIVA
-http://streamtv.com.br:80/erick/123/116
+http://srv.mtvs.me:8880/lurdes/1234/28437
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE TV
 http://streamtv.com.br:80/erick/123/1561
 #EXTINF:-1 tvg-logo="https://i.imgur.com/psIffwK.png" group-title="TV ABERTA",TV APARECIDA
