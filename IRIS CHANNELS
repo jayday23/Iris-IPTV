@@ -195,7 +195,7 @@ http://listaccess.me:8880/miguel/123/9092
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO NORDESTE
 http://bluereds.xyz:80/jeiva45/s2323454545/8044
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO SP
-http://srv.mtvs.me:8880/lurdes/1234/28334
+http://listaccess.me:8880/miguel/123/13632
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RJ
 http://bluereds.xyz:80/jeiva45/s2323454545/8038
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GLOBOSAT
@@ -207,8 +207,12 @@ http://bluereds.xyz:80/jeiva45/s2323454545/8138
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",Record
 http://bluereds.xyz:80/jeiva45/s2323454545/7951
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Viva.png" group-title="TV ABERTA",VIVA
+http://listaccess.me:8880/miguel/123/7230
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Viva.png" group-title="TV ABERTA",Viva
 http://srv.mtvs.me:8880/lurdes/1234/28437
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE TV
+http://listaccess.me:8880/miguel/123/7289
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE Tv
 http://srv.mtvs.me:8880/lurdes/1234/28494
 #EXTINF:-1 tvg-logo="https://i.imgur.com/psIffwK.png" group-title="TV ABERTA",TV APARECIDA
 http://bluereds.xyz:80/jeiva45/s2323454545/7900
@@ -222,22 +226,26 @@ http://bluereds.xyz:80/jeiva45/s2323454545/1088
 http://bluereds.xyz:80/jeiva45/s2323454545/7898
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",TV SENADO
 http://bluereds.xyz:80/jeiva45/s2323454545/7902
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NEWS
 http://bluereds.xyz:80/jeiva45/s2323454545/8136
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
+http://listaccess.me:8880/miguel/123/7481
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",Band NEws
 http://elitex.me:80/Jeanhrd/Jean2034/20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BANd NEWs
 http://srv.mtvs.me:8880/lurdes/1234/28648
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",Globo NeWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWS
 http://bluereds.xyz:80/jeiva45/s2323454545/1204
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",Globo NeWS
+http://listaccess.me:8880/miguel/123/7391
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
 http://elitex.me:80/Jeanhrd/Jean2034/18
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoBo NEWS
 http://srv.mtvs.me:8880/lurdes/1234/28811
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
-http://srv.mtvs.me:8880/lurdes/1234/28500
+http://listaccess.me:8880/miguel/123/2205
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAL
-http://srv.mtvs.me:8880/lurdes/1234/28629
+http://listaccess.me:8880/miguel/123/7461
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOw
 http://bluereds.xyz:80/jeiva45/s2323454545/7986
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV
@@ -245,15 +253,15 @@ http://bluereds.xyz:80/jeiva45/s2323454545/7988
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SporTV 3
 http://bluereds.xyz:80/jeiva45/s2323454545/7932
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SPORTV 3
-http://srv.mtvs.me:8880/lurdes/1234/28481
+http://listaccess.me:8880/miguel/123/2186
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTv 2
 http://bluereds.xyz:80/jeiva45/s2323454545/7933
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTV 2
-http://srv.mtvs.me:8880/lurdes/1234/28484
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPOrTv
-http://srv.mtvs.me:8880/lurdes/1234/28485
+http://listaccess.me:8880/miguel/123/7279
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPORTV
 http://bluereds.xyz:80/jeiva45/s2323454545/7930
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPOrTv
+http://listaccess.me:8880/miguel/123/7280
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuBBJ9H.png" group-title="ESPORTES",PREMIERE CLUBES
 http://bluereds.xyz:80/jeiva45/s2323454545/7955
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Fox-Sports.png" group-title="ESPORTES",FOX SPORTS
@@ -270,25 +278,27 @@ http://bluereds.xyz:80/jeiva45/s2323454545/45820
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Animal-Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
 http://bluereds.xyz:80/jeiva45/s2323454545/8145
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Channel.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
-http://srv.mtvs.me:8880/lurdes/1234/28625
+http://listaccess.me:8880/miguel/123/7458
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kys6DSK.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION
-http://srv.mtvs.me:8880/lurdes/1234/28622
+http://listaccess.me:8880/miguel/123/7456
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIvz01B.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE
-http://srv.mtvs.me:8880/lurdes/1234/28816
+http://listaccess.me:8880/miguel/123/13711
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Theater.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER
-http://srv.mtvs.me:8880/lurdes/1234/28615
+http://listaccess.me:8880/miguel/123/7448
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Turbo.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO
 http://bluereds.xyz:80/jeiva45/s2323454545/8100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrZtaCb.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD
 http://bluereds.xyz:80/jeiva45/s2323454545/8098
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",ID: INVESTIGAÇÃO DISCOVERY
 http://bluereds.xyz:80/jeiva45/s2323454545/8003
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",Id: INVESTIGAÇÃO DISCOVERY
+http://listaccess.me:8880/miguel/123/2254
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
 http://srv.mtvs.me:8880/lurdes/1234/29011
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
-http://srv.mtvs.me:8880/lurdes/1234/28850
+http://listaccess.me:8880/miguel/123/7327
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo-Wild.png" group-title="DOCUMENTÁRIOS",NATGEO WILD
-http://srv.mtvs.me:8880/lurdes/1234/28532
+http://listaccess.me:8880/miguel/123/7323
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/H2more2history.png" group-title="DOCUMENTÁRIOS",H2
 http://bluereds.xyz:80/jeiva45/s2323454545/8018
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/The-History-Channel.png" group-title="DOCUMENTÁRIOS",HISTORY
