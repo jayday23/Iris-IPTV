@@ -1,7 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Apenas um Garoto em Nova York
-http://srv.mtvs.me:8880/guinhoirmao/1234567890/12305.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",As Ferias Da Minha Vida
+http://listaccess.me:8880/movie/davi/davi/9955.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",American Pie  Caindo em Tentacao
+http://listaccess.me:8880/movie/davi/davi/1969.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Anaconda 4
+http://listaccess.me:8880/movie/davi/davi/15129.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Animais Fantásticos e Onde Habitam
+http://listaccess.me:8880/movie/davi/davi/10440.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Os Crimes de Grindelwald: Animais Fantasticos
+http://listaccess.me:8880/movie/davi/davi/19826.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Apenas o Começo
+http://listaccess.me:8880/movie/davi/davi/4519.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Arranha Ceu Coragem Sem Limite
+http://listaccess.me:8880/movie/davi/davi/13065.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",As Donas da Noite
+http://listaccess.me:8880/movie/davi/davi/10407.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",As Melhores Coisas do Mundo
+http://listaccess.me:8880/movie/davi/davi/15163.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Ate o Ultimo Homem
+http://listaccess.me:8880/movie/davi/davi/9965.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Bater ou Correr
+http://listaccess.me:8880/movie/davi/davi/10743.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Cro em Familia
+http://listaccess.me:8880/movie/davi/davi/18269.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Curtindo a Vida Adoidado
+http://listaccess.me:8880/movie/davi/davi/9765.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Cruzeiro das Loucas
+http://listaccess.me:8880/movie/davi/davi/19481.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",BOHEMIAN RHAPSODY (2018)
 http://bluereds.xyz:80/movie/jeiva45/s2323454545/49643.mp4
 
