@@ -261,6 +261,12 @@ http://srv.mtvs.me:8880/zljVWqZSlF/DxOql3fGIa/28483
 http://bluereds.xyz:80/jeiva45/s2323454545/7930
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPOrTv
 http://srv.mtvs.me:8880/zljVWqZSlF/DxOql3fGIa/28480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",Espn
+http://bluereds.xyz:80/jeiva45/s2323454545/8082
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",ESPN
+http://srv.mtvs.me:8880/zljVWqZSlF/DxOql3fGIa/28603
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",ESPn
+http://srv.mtvs.me:8880/zljVWqZSlF/DxOql3fGIa/28596
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuBBJ9H.png" group-title="ESPORTES",PREMIERE CLUBES
 http://bluereds.xyz:80/jeiva45/s2323454545/7955
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Fox-Sports.png" group-title="ESPORTES",FOX SPORTS
