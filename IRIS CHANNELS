@@ -40,6 +40,8 @@ http://elitex.me:80/series/rodrigoberardine4/yujDUm38Jy/11636.mp4
 --------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",CINEMAX
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/3751
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",CINEMAX *
 http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/8120
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",Cinemax
 http://srv.mtvs.me:8880/zljVWqZSlF/DxOql3fGIa/28632
@@ -47,8 +49,6 @@ http://srv.mtvs.me:8880/zljVWqZSlF/DxOql3fGIa/28632
 http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/8012
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBO 2
 http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/8015
-#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SIGNATURE
-http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/8007
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO PLUS
 http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/8009
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Family.png" group-title="TELECINES",HBO FAMILY
