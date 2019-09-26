@@ -1,17 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E16 2ª The Good Doctor: O Bom Doutor
+http://lista.digitalgroup.me:80/series/2021/123/44482.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E17 2ª The Good Doctor: O Bom Doutor
+http://lista.digitalgroup.me:80/series/2021/123/44483.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E18 2ª The Good Doctor: O Bom Doutor
+http://lista.digitalgroup.me:80/series/2021/123/44484.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E16 The Good Doctor S02  
 http://clienteworld.com:8080/series/ione/ione/70523.mkv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E17 The Good Doctor S02 
 http://clienteworld.com:8080/series/ione/ione/70524.mkv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E18 The Good Doctor S02
 http://clienteworld.com:8080/series/ione/ione/75777.mkv
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E16 2ª The Good Doctor: O Bom Doutor
-http://elitex.me:80/series/rodrigoberardine4/yujDUm38Jy/11313.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E17 2ª The Good Doctor: O Bom Doutor
-http://elitex.me:80/series/rodrigoberardine4/yujDUm38Jy/11321.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E18 2ª The Good Doctor: O Bom Doutor
-http://elitex.me:80/series/rodrigoberardine4/yujDUm38Jy/11636.mp4
 
 --------------------------------------------------------------------------------------------------
 
