@@ -1,23 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",Episódio 16 - O Bom Doutor
-http://listaccess.me:8880/series/h89mv1uc23/42pwgmxfj5/21385.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",Episódio 17 - O Bom Doutor
-http://listaccess.me:8880/series/h89mv1uc23/42pwgmxfj5/21386.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",Episódio 18 - O Bom Doutor
-http://listaccess.me:8880/series/h89mv1uc23/42pwgmxfj5/21387.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E16 The Good Doctor S02  
-http://lista.digitalgroup.me:80/series/ryan/123/44482.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E17 The Good Doctor S02 
-http://lista.digitalgroup.me:80/series/ryan/123/44483.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E18 The Good Doctor S02
-http://lista.digitalgroup.me:80/series/ryan/123/44484.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E16 2ª The Good Doctor: O Bom Doutor
-http://srv.mtvs.me:8880/series/Ruytherpereira/hsjsnsnsbsbs/29961.mkv
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E17 2ª The Good Doctor: O Bom Doutor
-http://srv.mtvs.me:8880/series/Ruytherpereira/hsjsnsnsbsbs/29962.mkv
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",E18 2ª The Good Doctor: O Bom Doutor
-http://srv.mtvs.me:8880/series/Ruytherpereira/hsjsnsnsbsbs/29963.mkv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tgdoctor2.jpg" group-title="CINEMA",
 
 --------------------------------------------------------------------------------------------------
 
