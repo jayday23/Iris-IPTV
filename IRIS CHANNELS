@@ -1,13 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Zumbilandia
-http://painel.ebanonet.com.br:25461/movie/samuel/samuel/19907.mkv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Rocketman (2019)
-http://painel.ebanonet.com.br:25461/movie/samuel/samuel/32692.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",A Pé Ele Não Vai Longe (2018)
-http://painel.ebanonet.com.br:25461/movie/samuel/samuel/32704.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Cruise: Destino em Colisão (2019)
-http://painel.ebanonet.com.br:25461/movie/samuel/samuel/32706.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",
 
 --------------------------------------------------------------------------------------------------
 
