@@ -67,9 +67,8 @@ http://painel.ebanonet.com.br:25461/allan14/allan14/20532
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPaCE
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28486
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPACe
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28486
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SpACE
-http://quatv2.com:8080/silvana/123456/313
+http://clienteworld.com:8080/kleber/kleber123/8013
+
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TNT
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28458
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TNt
