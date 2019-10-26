@@ -68,7 +68,6 @@ http://painel.ebanonet.com.br:25461/allan14/allan14/20532
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28486
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPACe
 http://clienteworld.com:8080/kleber/kleber123/8013
-
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TNT
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28458
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TNt
@@ -194,6 +193,8 @@ http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/1201
 http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/7999
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
 http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/3587
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",Sbt
+http://clienteworld.com:8080/kleber/kleber123/12954
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
 http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/34522
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BanD
@@ -251,25 +252,27 @@ http://clienteworld.com:8080/kleber/kleber123/8149
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BANd NEWs
-http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/8136
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/5843
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BaNd NEWs
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28648
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BanD NEWS
-http://lista.digitalgroup.me:80/jessica/1234/17951
+http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/8136
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWS
 http://clienteworld.com:8080/kleber/kleber123/13045
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",Globo NeWS
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/18
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBo NEWS
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28811
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/2826
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
-http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/1204
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28811
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoBo NEWS
-http://clienteworld.com:8080/ione/ione/76157
+http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/1204
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28499
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAL
-http://lista.digitalgroup.me:80/jessica/1234/16004
+http://clienteworld.com:8080/kleber/kleber123/8137
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CeNTRAL
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/2861
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOW
 http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/93
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOw
@@ -277,15 +280,17 @@ http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/9628
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTiSHOW
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28536
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOw
-http://clienteworld.com:8080/kleber/kleber123/8049
+http://clienteworld.com:8080/kleber/kleber123/14089
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV
 http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/4957
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",mTV
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/5913
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/4957
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MtV
 http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/7988
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTv
 http://clienteworld.com:8080/kleber/kleber123/8050
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV Live
+http://clienteworld.com:8080/kleber/kleber123/14089
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SporTV 3
 http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/7932
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SPORTV 3
@@ -324,9 +329,9 @@ http://painel.ebanonet.com.br:25461/samuel/samuel/26368
 --------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Animal-Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
-http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/8145
+http://clienteworld.com:8080/kleber/kleber123/8154
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Channel.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
-http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/24208
+http://clienteworld.com:8080/kleber/kleber123/12741
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kys6DSK.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28818
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIvz01B.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE
@@ -334,9 +339,9 @@ http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28616
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Theater.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28614
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrZtaCb.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD
-http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/8098
+http://clienteworld.com:8080/kleber/kleber123/8126
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",ID: INVESTIGAÇÃO DISCOVERY
-http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/8003
+http://clienteworld.com:8080/kleber/kleber123/13005
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/109
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",Id: INVESTIGAÇÃO DISCOVERY
@@ -346,6 +351,6 @@ http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28532
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo-Wild.png" group-title="DOCUMENTÁRIOS",NATGEO WILD
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28529
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/H2more2history.png" group-title="DOCUMENTÁRIOS",H2
-http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/8018
+http://clienteworld.com:8080/kleber/kleber123/8068
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/The-History-Channel.png" group-title="DOCUMENTÁRIOS",HISTORY
-http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/8005
+http://clienteworld.com:8080/kleber/kleber123/13008
