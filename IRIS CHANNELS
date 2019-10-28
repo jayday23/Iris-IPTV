@@ -1,6 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E01
+http://elitex.me:8880/series/rodrigoberardine4/yujDUm38Jy/17401.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E02
+http://elitex.me:8880/series/rodrigoberardine4/yujDUm38Jy/17402.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E03
+http://elitex.me:8880/series/rodrigoberardine4/yujDUm38Jy/17403.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E04
+http://elitex.me:8880/series/rodrigoberardine4/yujDUm38Jy/17404.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E05
+http://elitex.me:8880/series/rodrigoberardine4/yujDUm38Jy/17438.mp4
 
 --------------------------------------------------------------------------------------------------
 
