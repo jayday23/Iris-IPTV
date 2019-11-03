@@ -343,6 +343,20 @@ http://painel.ebanonet.com.br:25461/allan14/allan14/26562
 http://painel.ebanonet.com.br:25461/allan14/allan14/26564
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",PRIVÊ SEXO
 http://painel.ebanonet.com.br:25461/allan14/allan14/26368
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 1 24Hs
+http://clienteworld.com:8080/claudia/123456/51478
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 2 24Hs
+http://clienteworld.com:8080/claudia/123456/51479
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 3 24Hs
+http://clienteworld.com:8080/claudia/123456/51480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 4 24Hs
+http://clienteworld.com:8080/claudia/123456/51481
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 5 24Hs
+http://clienteworld.com:8080/claudia/123456/52826
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 6 24Hs
+http://clienteworld.com:8080/claudia/123456/52827
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 7 24Hs
+http://clienteworld.com:8080/claudia/123456/52828
 
 --------------------------------------------------------------------------------------------------
 
