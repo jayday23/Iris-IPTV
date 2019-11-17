@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E01
-http://psrv.io:80/series/laercio/laercio123/23117.mp4
+http://psrv.io:80/barbara/barbara123/23117.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E02
-http://psrv.io:80/series/laercio/laercio123/23118.mp4
+http://psrv.io:80/barbara/barbara123/23118.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E03
-http://psrv.io:80/series/laercio/laercio123/23601.mp4
+http://psrv.io:80/barbara/barbara123/23601.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E04
-http://psrv.io:80/series/laercio/laercio123/23864.mp4
+http://psrv.io:80/barbara/barbara123/23864.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E05
-http://psrv.io:80/series/laercio/laercio123/24015.mp4
+http://psrv.io:80/barbara/barbara123/24015.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",S01 E01 - Chernobyl
 http://elitex.me:8880/series/rodrigoberardine4/yujDUm38Jy/17401.mp4
@@ -45,39 +45,39 @@ http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28563
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SIGNATURE
 http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/267
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SignatUre
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28556
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28856
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO PLUS
 http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/8214
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Plus.png" group-title="TELECINES",HBO Plus
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28558
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28857
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Family.png" group-title="TELECINES",HBO FAMILY
 http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/276
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Family.png" group-title="TELECINES",HBO Family
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28562
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28983
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX.png" group-title="TELECINES",MAX
 http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/4827
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX.png" group-title="TELECINES",Max
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28546
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28975
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX-Prime.png" group-title="TELECINES",MAX PRIME
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28544
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX-Prime.png" group-title="TELECINES",MAX Prime
 http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/4828
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX-Prime.png" group-title="TELECINES",MAX Prime
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28974
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/maxup.png" group-title="TELECINES",MAX UP
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28542
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/35301
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/maxup.png" group-title="TELECINES",Max UP
 http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/5043
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Megapix.png" group-title="TELECINES",MEGAPIX
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/244
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Megapix.png" group-title="TELECINES",Megapix
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/244
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Megapix.png" group-title="TELECINES",MEGAPIx
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Megapix.png" group-title="TELECINES",Megapix
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28540
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Megapix.png" group-title="TELECINES",MEGAPIx
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/50853
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28519
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT *
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/228
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",Paramount
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/228
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT *
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28847
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",Paramount
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/50938
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPACE
 http://clienteworld.com:8080/claudia/123456/8013
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPAcE
@@ -87,7 +87,7 @@ http://painel.ebanonet.com.br:25461/allan14/allan14/20532
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPaCE
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/4947
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPACe
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/4947
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/51047
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",Space
 http://greencorp.tech:80/carlosbuchalla/f3xwf13u/7936
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TNT
@@ -95,98 +95,100 @@ http://clienteworld.com:8080/claudia/123456/7995
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TNt
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/263
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",tnt
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/263
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",tnT
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28458
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TnT
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",tnT
 http://painel.ebanonet.com.br:25461/allan14/allan14/20493
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TnT
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/36934
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",tNT
 http://greencorp.tech:80/carlosbuchalla/f3xwf13u/7906
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Action.png" group-title="TELECINES",TELECINE ACTION
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/296
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Action.png" group-title="TELECINES",TELECINE ActioN
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/296
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Action.png" group-title="TELECINES",TELECINE ACTIOn
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28473
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Action.png" group-title="TELECINES",TELECINE ACTIOn
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/36939
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Cult.png" group-title="TELECINES",TELECINE CULT
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/4791
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Cult.png" group-title="TELECINES",TELECINE Cult
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/4791
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Cult.png" group-title="TELECINES",TELECINE Cult
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/36901
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Cult.png" group-title="TELECINES",TELECINE CulT
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28795
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28471
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Fun.png" group-title="TELECINES",TELECINE FUN
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/293
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Fun.png" group-title="TELECINES",TELECINE Fun
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/293
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Fun.png" group-title="TELECINES",TELECINE FuN
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28832
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Fun.png" group-title="TELECINES",TELECINE FuN
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/36938
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine_Pipoca_HD.jpg" group-title="TELECINES",TELECINE PIPOCA
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/290
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine_Pipoca_HD.jpg" group-title="TELECINES",TELECINE Pipoca
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/290
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine_Pipoca_HD.jpg" group-title="TELECINES",TELECINE PipocA
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28467
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine_Pipoca_HD.jpg" group-title="TELECINES",TELECINE PipocA
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/36937
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Premium.png" group-title="TELECINES",TELECINE PREMIUM
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28465
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Premium.png" group-title="TELECINES",TELECINE Premium
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/287
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Premium.png" group-title="TELECINES",TELECINE PremiuM
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/287
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/36936
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Touch.png" group-title="TELECINES",TELECINE TOUCH
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28463
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Touch.png" group-title="TELECINES",TELECINE Touch
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/284
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Touch.png" group-title="TELECINES",TELECINE ToucH
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/284
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/36935
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/8244
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",Tcm
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28475
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",Tcm
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/37037
 #EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk" group-title="TELECINES",TNT SERIES
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28456
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SyFy.png" group-title="TELECINES",SYFY
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/2762
+http://elitex.me:80/rodrigoberardine4/yujDUm38J/2762
 
 --------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Sony.png" group-title="CANAIS DE SÉRIES",SONY
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28637
-#EXTINF:-1 tvg-loghttp://psrv.io:80/laercio/laercio123/18714o="http://logosc.ucoz.com/Sony.png" group-title="CANAIS DE SÉRIES",Sony
-http://psrv.io:80/laercio/laercio123/18714
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Sony.png" group-title="CANAIS DE SÉRIES",Sony
+http://psrv.io:80/barbara/barbara123/18714
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Fox.png" group-title="CANAIS DE SÉRIES",FOX
-http://psrv.io:80/laercio/laercio123/18667
+http://psrv.io:80/barbara/barbara123/18667
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Fox.png" group-title="CANAIS DE SÉRIES",Fox
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28999
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28591
 #EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX LIFE
-http://psrv.io:80/laercio/laercio123/18665
+http://psrv.io:80/barbara/barbara123/18665
 #EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX Life
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28588
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",STUDIO UNIVERSAL
-http://psrv.io:80/laercio/laercio123/18556
+http://psrv.io:80/barbara/barbara123/18556
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",Studio Universal
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28479
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",UNIVERSAL CHANNEL
-http://psrv.io:80/laercio/laercio123/18520
+http://psrv.io:80/barbara/barbara123/18520
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",Universal Channel
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28443
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",WARNER CHANNEL
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28435
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",Warner Channel
-http://psrv.io:80/laercio/laercio123/18513
+http://psrv.io:80/barbara/barbara123/18513
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",AXN
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28653
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",Axn
-http://psrv.io:80/laercio/laercio123/18730
+http://psrv.io:80/barbara/barbara123/18730
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",FX
-http://psrv.io:80/laercio/laercio123/18653
+http://psrv.io:80/barbara/barbara123/18653
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",Fx
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28576
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FOX PREMIUM 1
 http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/257
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",Fox PREMIUM 1
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28587
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Wh3INC.png" group-title="CANAIS DE SÉRIES",Fox Premium 1
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/50750
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",TBS
-http://psrv.io:80/laercio/laercio123/18554
+http://psrv.io:80/barbara/barbara123/18554
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",Tbs
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28476
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE FAMÍLIA
@@ -202,8 +204,8 @@ http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/19444
  
 --------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RJ
-http://painel.ebanonet.com.br:25461/allan14/allan14/22756
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO NORDESTE
+http://painel.ebanonet.com.br:25461/allan14/allan14/6113
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO TV CABO BRANCO
 http://clienteworld.com:8080/claudia/123456/45025
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO SP
@@ -211,13 +213,13 @@ http://painel.ebanonet.com.br:25461/allan14/allan14/22757
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo RJ
 http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/8984
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GLOBOSAT
-http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/8195
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/8195
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
-http://painel.ebanonet.com.br:25461/allan14/allan14/20555
+http://painel.ebanonet.com.br:25461/allan14/allan14/25544
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",Sbt
-http://clienteworld.com:8080/claudia/123456/12954
+http://clienteworld.com:8080/claudia/123456/8178
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
-http://psrv.io:80/laercio/laercio123/18727
+http://psrv.io:80/barbara/barbara123/18727
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BanD
 http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/4895
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",Band
@@ -235,7 +237,7 @@ http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/336
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",Record
 http://clienteworld.com:8080/claudia/123456/12959
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",ReCORD
-http://psrv.io:80/laercio/laercio123/18575
+http://psrv.io:80/barbara/barbara123/18575
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECORD
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28497
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Viva.png" group-title="TV ABERTA",VIVA
@@ -249,7 +251,7 @@ http://painel.ebanonet.com.br:25461/allan14/allan14/10277
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE TV
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/4898
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE TV *
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28494
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28840
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE Tv
 http://greencorp.tech:80/carlosbuchalla/f3xwf13u/1131
 #EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/escola.png" group-title="TV ABERTA",TV ESCOLA
@@ -273,17 +275,15 @@ http://clienteworld.com:8080/claudia/123456/8149
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BANd NEWs
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/5843
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/29022
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BaNd NEWs
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28648
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/5843
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BanD NEWS
 http://greencorp.tech:80/carlosbuchalla/f3xwf13u/8136
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWS
 http://clienteworld.com:8080/claudia/123456/13045
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",Globo NeWS
-http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/18
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBo NEWS
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/2826
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/2826
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28811
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoBo NEWS
@@ -291,25 +291,33 @@ http://greencorp.tech:80/carlosbuchalla/f3xwf13u/1204
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28499
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAL
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/2861
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAL FHD
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/9605
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY Central
 http://clienteworld.com:8080/claudia/123456/8137
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CeNTRAL
-http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/2861
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOW
-http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/93
-#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOw
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/93
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOW FHD
 http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/9628
-#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTiSHOW
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOw
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28536
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTiSHOW
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/50857
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOw
 http://clienteworld.com:8080/claudia/123456/14089
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV
 http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/4957
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV FHD
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/5913
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",mTV
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28538
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MtV
 http://clienteworld.com:8080/claudia/123456/8050
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTv
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28538
-#EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV Live
 http://clienteworld.com:8080/claudia/123456/14089
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV Live
+http://tv.factoryiptv.com:80/nG8R5GRJCw/factoryiptv/50855
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lq0cmCZ.jpg" group-title="SERIADOS",PEGADINHAS SILVIO SANTOS
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/10795
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lq0cmCZ.jpg" group-title="SERIADOS",PEGADINHAS JOAO KLEBER
