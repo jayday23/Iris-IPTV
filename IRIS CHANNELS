@@ -209,6 +209,16 @@ http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/19444
 http://clienteworld.com:8080/claudia/123456/499
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",Vibe FM
 http://clienteworld.com:8080/claudia/123456/507
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MUSIC CLIMA
+https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=853872102
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CLIPES
+http://stmv1.ifantasy.com.br:1935/tvu/tvu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",TOP CLIPES
+https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",VH1 Classic
+http://mypanel.tv:8080/fg6pzvc4qn/unq3z6j2l8/9509
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MTV Internacional
+http://s.igiptv.com:8000/mohamadxsharefa/r75633/37517
  
 --------------------------------------------------------------------------------------------------
 
@@ -357,6 +367,10 @@ http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28603
 http://clienteworld.com:8080/claudia/123456/8029
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Fox-Sports.png" group-title="ESPORTES",FOX SPORTS
 http://clienteworld.com:8080/claudia/123456/8101
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: 18+ Sexy Hot
+https://globolive.akamaized.net/d/c/x2800/s/hls-sexy24ha/hls-sexy24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: 18+ SexPrive
+https://mj1b2xsspj.singularcdn.net.br/encompass/SexPrive/master_Layer1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: SEXTREME
 http://painel.ebanonet.com.br:25461/allan14/allan14/26369
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: SEXY HOT
