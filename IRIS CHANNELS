@@ -467,19 +467,19 @@ http://clienteworld.com:8080/claudia/123456/52828
 --------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Animal-Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
-http://clienteworld.com:8080/claudia/123456/8154
+http://greencorp.tech:80/diego/diego123/8145
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Channel.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
-http://clienteworld.com:8080/claudia/123456/12741
+http://greencorp.tech:80/diego/diego123/8112
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kys6DSK.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION
 http://brazilgroup.xyz:8880/pedro/pedro123/627
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIvz01B.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/29543
+http://greencorp.tech:80/diego/diego123/8104
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Theater.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER
-http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28614
+http://greencorp.tech:80/diego/diego123/1243
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrZtaCb.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD
-http://clienteworld.com:8080/claudia/123456/8126
+http://greencorp.tech:80/diego/diego123/8098
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",ID: INVESTIGAÇÃO DISCOVERY
-http://clienteworld.com:8080/claudia/123456/13005
+http://greencorp.tech:80/diego/diego123/8003
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
 http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/109
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",Id: INVESTIGAÇÃO DISCOVERY
@@ -489,6 +489,6 @@ http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28532
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo-Wild.png" group-title="DOCUMENTÁRIOS",NATGEO WILD
 http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28849
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/H2more2history.png" group-title="DOCUMENTÁRIOS",H2
-http://clienteworld.com:8080/claudia/123456/8068
+http://greencorp.tech:80/diego/diego123/8018
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/The-History-Channel.png" group-title="DOCUMENTÁRIOS",HISTORY
-http://clienteworld.com:8080/claudia/123456/13008
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/historyopcao2_00a8a5c3_b449f0ff6e06c3ffc30eb1cde5b3ae954f97c68f.m3u8
