@@ -373,10 +373,14 @@ http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28483
 http://clienteworld.com:8080/claudia/123456/12811
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SPORTV 3
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28481
+XTINF:-1 tvg-logo="https://i.imgur.com/SeY7Nc8.png" group-title="ESPORTES",BANDSPORTS
+http://clienteworld.com:8080/claudia/123456/8236
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",Espn
 http://clienteworld.com:8080/claudia/123456/8119
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",ESPN
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28603
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PSadGNe.png" group-title="ESPORTES",ESPN Extra
+http://clienteworld.com:8080/claudia/123456/8116
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuBBJ9H.png" group-title="ESPORTES",PREMIERE CLUBES
 http://clienteworld.com:8080/claudia/123456/8029
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Fox-Sports.png" group-title="ESPORTES",FOX SPORTS
