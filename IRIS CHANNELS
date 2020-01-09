@@ -58,7 +58,7 @@ http://tvnanet.xyz:25461/gabigol/cansado/182
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28486
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAcE
 http://elitex.me:8880/lourdes/lourdes123/4947
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAcE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAce
 http://clienteworld.com:8080/jhonny/123456/8013
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPaCE
 http://tvnanet.xyz:25461/gabigol/cansado/224
@@ -99,7 +99,7 @@ http://elitex.me:8880/lourdes/lourdes123/290
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PipocA
 http://clienteworld.com:8080/jhonny/123456/8168
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECiNE PIPOCA
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_a76687d2915e0a3814e7ac481a52fdeb0ddce1c7.m3u8
+http://tvnanet.xyz:25461/gabigol/cansado/244
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PREMIUM
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28465
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE Premium
@@ -112,6 +112,8 @@ http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28463
 http://elitex.me:8880/lourdes/lourdes123/284
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE ToucH
 http://clienteworld.com:8080/jhonny/123456/8166
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TouCH
+http://tvnanet.xyz:25461/gabigol/cansado/248
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28475
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",Tcm
