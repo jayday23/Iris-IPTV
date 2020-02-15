@@ -1,6 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",As Viuvas 4K
+http://psrv.io:80/movie/lorena/lorena123/38468.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Coringa 4K
+http://psrv.io:80/movie/lorena/lorena123/38479.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Furia em Alto Mar 4K
+http://psrv.io:80/movie/lorena/lorena123/38485.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Estrada Sem Lei 4K
+http://psrv.io:80/movie/lorena/lorena123/38484.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",No Olho do Furacao 4K
+http://psrv.io:80/movie/lorena/lorena123/38518.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Primeiro Homem 4K
+http://psrv.io:80/movie/lorena/lorena123/38522.mp4
 
 --------------------------------------------------------------------------------------------------
 
