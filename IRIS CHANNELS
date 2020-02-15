@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Misterio do Relogio na Parede 4K
+http://psrv.io:80/movie/lorena/lorena123/38521.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",As Viuvas 4K
 http://psrv.io:80/movie/lorena/lorena123/38468.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Coringa 4K
