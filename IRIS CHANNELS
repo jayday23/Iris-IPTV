@@ -397,6 +397,13 @@ http://servidoriptv.mine.nu:37001/gabriel/gabriel/2473
 http://servidoriptv.mine.nu:37001/claudia/123456/4254
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuBBJ9H.png" group-title="ESPORTES",PREMIERE CLUBES
 http://servidoriptv.mine.nu:37001/claudia/123456/2416
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhwDAaQ.png" group-title="ESPORTES",Premiere ClUbes
+http://servidoriptv.mine.nu:37001/gabriel/gabriel/2416
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhwDAaQ.png" group-title="ESPORTES",Premiere ClUbeS
+http://psrv.io:80/felicia/felicia/18582
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhwDAaQ.png" group-title="ESPORTES",Premiere CLUBES
+http://tv.factoryiptv.com:80/murilo/123456/36948
+
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Fox-Sports.png" group-title="ESPORTES",FOX SPORTS
 http://servidoriptv.mine.nu:37001/claudia/123456/2463
 
