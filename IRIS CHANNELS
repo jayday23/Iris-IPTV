@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Misterio do Relogio na Parede 4K
-http://psrv.io:80/movie/lorena/lorena123/38521.mp4
+http://psrv.io:80/movie/elizabeth/elizabeth/38521.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",As Viuvas 4K
-http://psrv.io:80/movie/lorena/lorena123/38468.mp4
+http://psrv.io:80/movie/elizabeth/elizabeth/38468.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Coringa 4K
-http://psrv.io:80/movie/lorena/lorena123/38479.mp4
+http://psrv.io:80/movie/elizabeth/elizabeth/38479.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Furia em Alto Mar 4K
-http://psrv.io:80/movie/lorena/lorena123/38485.mp4
+http://psrv.io:80/movie/elizabeth/elizabeth/38485.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Estrada Sem Lei 4K
-http://psrv.io:80/movie/lorena/lorena123/38484.mp4
+http://psrv.io:80/movie/elizabeth/elizabeth/38484.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",No Olho do Furacao 4K
-http://psrv.io:80/movie/lorena/lorena123/38518.mp4
+http://psrv.io:80/movie/elizabeth/elizabeth/38518.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Primeiro Homem 4K
-http://psrv.io:80/movie/lorena/lorena123/38522.mp4
+http://psrv.io:80/movie/elizabeth/elizabeth/38522.mp4
 
 --------------------------------------------------------------------------------------------------
 
@@ -362,23 +362,15 @@ http://csrv.me:80/ddXSV6V3Ks/fireurl.co/29908
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8PbTRC.jpg" group-title="SERIADOS",TODO MUNDO ODEIA O CHRIS
 http://psrv.io:80/lorena/lorena123/19185
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPORTV
-http://psrv.io:80/felicia/felicia/18558
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPORtV
 http://psrv.io:80/elizabeth/elizabeth/18558
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SpORTV
 http://servidoriptv.mine.nu:37001/gabriel/gabriel/2384
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPOrTv
 http://servidoriptv.mine.nu:37001/claudia/123456/2384
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SpORTv
-http://tv.factoryiptv.com:80/murilo/123456/37255
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",sPORTv
 http://canais.servidor.tv:8080/laercio/laercio123/1444
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SpOrTv
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPOrTv
-http://servidoriptv.mine.nu:37001/gabriel/gabriel/2384
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SpOrTv
-http://servidoriptv.mine.nu:37001/rafael1/rafael1/2384
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTv 2
 http://servidoriptv.mine.nu:37001/gabriel/gabriel/2388
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTV 2
