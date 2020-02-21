@@ -1,19 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Misterio do Relogio na Parede 4K
-http://psrv.io:80/movie/elizabeth/elizabeth/38521.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",As Viuvas 4K
-http://psrv.io:80/movie/elizabeth/elizabeth/38468.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Coringa 4K
-http://psrv.io:80/movie/elizabeth/elizabeth/38479.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Furia em Alto Mar 4K
-http://psrv.io:80/movie/elizabeth/elizabeth/38485.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Estrada Sem Lei 4K
-http://psrv.io:80/movie/elizabeth/elizabeth/38484.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",No Olho do Furacao 4K
-http://psrv.io:80/movie/elizabeth/elizabeth/38518.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Primeiro Homem 4K
-http://psrv.io:80/movie/elizabeth/elizabeth/38522.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA"1,Nevoa em Agosto
+http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36549.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Amor Da Trabalho
+http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36547.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Primeiro Passo
+http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36537.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Socorro virei uma Garota
+http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36544.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Fim do Mundo
+http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36541.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",As Trapaceiras
+http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36540.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Yesterday
+http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36539.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Bom Dinossauro
+http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36546.mp4
 
 --------------------------------------------------------------------------------------------------
 
