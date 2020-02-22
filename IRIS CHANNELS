@@ -70,19 +70,19 @@ http://servidoriptv.mine.nu:37001/claudia/123456/2420
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",Paramount
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28847
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPACE
-http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2516
+http://clienteworld.com:8080/denilson/denilson123/8176
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAcE
-http://servidoriptv.mine.nu:37001/claudia/123456/2516
+http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2516
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPaCE
-http://psrv.io:80/felicia/felicia/18564
+http://servidoriptv.mine.nu:37001/claudia/123456/2516
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",Space
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28486
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNT
-http://servidoriptv.mine.nu:37001/sidney/sidney/2515
-#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNT HD
 http://canais.servidor.tv:8080/matheus/matheus123/1433
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNT HD
+http://clienteworld.com:8080/denilson/denilson123/8164
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNT Hd
-http://psrv.io:80/elizabeth/elizabeth/18536
+http://servidoriptv.mine.nu:37001/sidney/sidney/2515
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNt
 http://servidoriptv.mine.nu:37001/claudia/123456/2515
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",tnt
@@ -114,7 +114,7 @@ http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2369
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE Pipoca
 http://servidoriptv.mine.nu:37001/claudia/123456/2369
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PipocA
-http://psrv.io:80/felicia/felicia/18545
+http://clienteworld.com:8080/denilson/denilson123/8168
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECiNE PIPOCA
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28467
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PREMIUM
@@ -130,7 +130,7 @@ http://servidoriptv.mine.nu:37001/claudia/123456/2365
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE ToucH
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28463
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TouCH
-http://psrv.io:80/felicia/felicia/18541
+http://clienteworld.com:8080/denilson/denilson123/8166
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
 http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/6616
 #EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk.png" group-title="TELECINES",TNT SERIES
@@ -173,13 +173,13 @@ http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2531
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",Fx
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28576
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FoX PREMIUM 1
-http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2467
+http://clienteworld.com:8080/denilson/denilson123/8215
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FOX PREMIUM 1
-http://servidoriptv.mine.nu:37001/claudia/123456/2467
+http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2467
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",Fox PREMIUM 1
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28587
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Wh3INC.png" group-title="CANAIS DE SÉRIES",Fox Premium 1
-http://psrv.io:80/felicia/felicia/18663
+http://servidoriptv.mine.nu:37001/claudia/123456/2467
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",TBS
 http://servidoriptv.mine.nu:37001/claudia/123456/4302
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE SKY
@@ -190,7 +190,6 @@ https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=853872102
 https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",VH1 Classic
 http://psrv.io:80/felicia/felicia/18518
-
  
 --------------------------------------------------------------------------------------------------
 
@@ -199,7 +198,7 @@ http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2521
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULtiShow
 http://servidoriptv.mine.nu:37001/claudia/123456/2521
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTIshOW
-http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/93
+http://tv.factoryiptv.com:80/marcos/marcos/36957
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTiSHOW
 http://psrv.io:80/felicia/felicia/18613
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV
@@ -207,17 +206,17 @@ http://servidoriptv.mine.nu:37001/claudia/123456/2432
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV *
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28538
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",Mtv
-http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4957
+http://tv.factoryiptv.com:80/marcos/marcos/36910
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MtV
 http://psrv.io:80/felicia/felicia/18615
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atpVyuY.png" group-title="TV ABERTA",AGRO BRASIL
 http://tv.factoryiptv.com:80/fernando/fernando123/64673
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo RJ (HD)
-http://servidoriptv.mine.nu:37001/claudia/123456/2530
+http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2530
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo RJ [HD]
-http://servidoriptv.mine.nu:37001/gabriel/gabriel/2530
+http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2530
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RJ {HD}
-http://servidoriptv.mine.nu:37001/rafael1/rafael1/2530
+http://servidoriptv.mine.nu:37001/claudia/123456/2530
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RJ HD
 http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2530
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo RJ hd
@@ -243,7 +242,7 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/hls-maisgsat24ha_23
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GlOBOSAT
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28548
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAiS GlOBOSAT
-http://servidoriptv.mine.nu:37001/gabriel/gabriel/2447
+http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2447
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",Sbt
@@ -251,23 +250,23 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
-http://servidoriptv.mine.nu:37001/gabriel/gabriel/2549
+http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2549
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BanD
 http://psrv.io:80/felicia/felicia/18727
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",Band
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28650
+http://tv.factoryiptv.com:80/marcos/marcos/36990
 #EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",bAND
-http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4895
+http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28650
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECORD
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",Record
-http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/336
+http://tv.factoryiptv.com:80/marcos/marcos/36947
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",ReCORD
-http://servidoriptv.mine.nu:37001/rafael1/rafael1/9531
+http://servidoriptv.mine.nu:37001/claudia/123456/9531
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",VIVA
 https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",Viva
-http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/79
+http://tv.factoryiptv.com:80/marcos/marcos/36931
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",ViVA
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28437
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE TV
@@ -316,23 +315,23 @@ https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NEWS
 http://canais.servidor.tv:8080/laercio/laercio123/1494
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BANd NEWs
-http://servidoriptv.mine.nu:37001/gabriel/gabriel/6648
+http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/6648
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BaNd NEWs
 http://psrv.io:80/felicia/felicia/18725
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/29022
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BanD NEWS
-http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/5843
+http://tv.factoryiptv.com:80/marcos/marcos/42411
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWS
 http://canais.servidor.tv:8080/laercio/laercio123/1468
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBo NEWS
-http://servidoriptv.mine.nu:37001/gabriel/gabriel/2454
+http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/2454
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
 http://servidoriptv.mine.nu:37001/claudia/123456/2454
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWs
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28811
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoBo NEWS
-http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/2826
+http://tv.factoryiptv.com:80/marcos/marcos/36917
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAl
@@ -340,30 +339,24 @@ http://csrv.me:80/ddXSV6V3Ks/fireurl.co/1873
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAL
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28628
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY Central
-http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/2861
+http://tv.factoryiptv.com:80/marcos/marcos/36925
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV Live
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28429
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEXSiYj.png" group-title="TV ABERTA",CANAL CURTA!
-http://servidoriptv.mine.nu:37001/gabriel/gabriel/6629
+http://servidoriptv.mine.nu:37001/esmeralda/esmeralda/6629
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",BIS - Clipes MPB ao Rock
 http://psrv.io:80/felicia/felicia/18721
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",BIS
-http://tv.factoryiptv.com:80/murilo/123456/36988
+http://tv.factoryiptv.com:80/marcos/marcos/36988
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/21w4wLR.jpg" group-title="SERIADOS",DOIS HOMENS E MEIO
-http://psrv.io:80/lorena/lorena123/19212
+http://psrv.io:80/felicia/felicia/19212
 #EXTINF:-1 tvg-logo="https://i.imgur.com/21w4wLR.jpg" group-title="SERIADOS",DOIS HOMENS & MEIO
 http://csrv.me:80/ddXSV6V3Ks/fireurl.co/29908
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8PbTRC.jpg" group-title="SERIADOS",TODO MUNDO ODEIA O CHRIS
-http://psrv.io:80/lorena/lorena123/19185
+http://psrv.io:80/felicia/felicia/19185
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPORTV
-http://psrv.io:80/elizabeth/elizabeth/18558
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SpORTV
-http://servidoriptv.mine.nu:37001/gabriel/gabriel/2384
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPOrTv
 http://servidoriptv.mine.nu:37001/claudia/123456/2384
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",sPORTv
-http://canais.servidor.tv:8080/laercio/laercio123/1444
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SpOrTv
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28480
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTv 2
