@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA"1,Nevoa em Agosto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Nevoa em Agosto
 http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36549.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Amor Da Trabalho
 http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36547.mp4
