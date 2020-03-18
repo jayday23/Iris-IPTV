@@ -256,7 +256,7 @@ http://servidoriptv.mine.nu:37001/claudia/123456/2519
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="TV ABERTA",REDe TV
 http://servidoriptv.mine.nu:37001/sandra/sandra/2519
 #EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/escola.png" group-title="TV ABERTA",TV ESCOLA
-http://psrv.io:80/damiana/damiana/18527
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18527
 #EXTINF:-1 tvg-logo="http://logo.streamstv.me/picon/BRCanalDOBoiTV.png" group-title="TV ABERTA",CANAL DO BOI
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/35871
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IiksGqK.png" group-title="TV ABERTA",Canal Rural
@@ -277,13 +277,9 @@ http://servidoriptv.mine.nu:37001/claudia/123456/6603
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQA7pwb.png" group-title="TV ABERTA",TV DIARIO FORTALEZA HD
 http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28412
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",TV CULTURA
-http://psrv.io:80/santiago/123456/18505
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",Tv CULTURA
-http://psrv.io:80/damiana/damiana/18505
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18505
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CAMARA
-http://psrv.io:80/santiago/123456/18528
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CaMARA
-http://psrv.io:80/damiana/damiana/18528
+http://psrv.io:80/REb9CZb5dyPrd/81955157086/18528
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",TV SENADO
 http://tv.factoryiptv.com:80/fernando/fernando123/57266
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",GNT
@@ -292,6 +288,16 @@ http://servidoriptv.mine.nu:37001/claudia/123456/2529
 http://servidoriptv.mine.nu:37001/claudia/123456/9521
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqHKvQa.png" group-title="TV ABERTA",TV A CRÍTICA
 https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BRASIL
+http://servidoriptv.mine.nu:37001/claudia/123456/16430
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN Brasil
+http://servidoriptv.mine.nu:37001/sandra/sandra/16430
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BrasiL
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/47358
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BRASIL HD
+http://list.deeplist.nl:80/claudinei/claudinei123/61949
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN Brasil HD
+http://clubsrv.me:80/3367464899/secure/41606
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NEWS
 http://servidoriptv.mine.nu:37001/claudia/123456/9798
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BANd NEWs
