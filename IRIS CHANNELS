@@ -1,138 +1,59 @@
 c#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Nevoa em Agosto
-http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36549.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Amor Da Trabalho
-http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36547.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Primeiro Passo
-http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36537.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Socorro virei uma Garota
-http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36544.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Fim do Mundo
-http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36541.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",As Trapaceiras
-http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36540.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",Yesterday
-http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36539.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",O Bom Dinossauro
-http://srv.mtvs.me:8880/movie/Danielgatis/bjansksnsjjsnsns/36546.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",
 
 --------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMC
-http://servidoriptv.mine.nu:37001/claudia/123456/2509
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMc
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28659
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOTuMOs.png" group-title="TELECINES",CINEMAX
-http://servidoriptv.mine.nu:37001/claudia/123456/2491
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOTuMOs.png" group-title="TELECINES",Cinemax
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28632
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",HBO
-http://servidoriptv.mine.nu:37001/claudia/123456/2525
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",hBO
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28560
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBO 2
-http://servidoriptv.mine.nu:37001/claudia/123456/2527
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBo 2
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28563
-#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SIGNATURE
-http://servidoriptv.mine.nu:37001/claudia/123456/2523
-#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SignatUre
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28856
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO PLUS
-http://servidoriptv.mine.nu:37001/claudia/123456/2524
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO Plus
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28857
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Tl1Iy.png" group-title="TELECINES",HBO FAMILY
-http://servidoriptv.mine.nu:37001/claudia/123456/2526
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Tl1Iy.png" group-title="TELECINES",HBO Family
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28983
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4GlYTjF.png" group-title="TELECINES",MAX
-http://servidoriptv.mine.nu:37001/claudia/123456/6620
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4GlYTjF.png" group-title="TELECINES",Max
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28975
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5x1eAPX.png" group-title="TELECINES",MAX PRIME
-http://servidoriptv.mine.nu:37001/claudia/123456/2434
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5x1eAPX.png" group-title="TELECINES",Max Prime
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28974
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cGxSfBq.png" group-title="TELECINES",MAX UP
-http://servidoriptv.mine.nu:37001/sidney/sidney/2433
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cGxSfBq.png" group-title="TELECINES",Max Up
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/35301
-#EXTINF:-1 tvg-logo="https://imgur.com/ewHyP3J.png" group-title="TELECINES",MEGAPIX
-http://servidoriptv.mine.nu:37001/claudia/123456/2522
-#EXTINF:-1 tvg-logo="https://imgur.com/ewHyP3J.png" group-title="TELECINES",Megapix
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28540
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT
-http://servidoriptv.mine.nu:37001/claudia/123456/2420
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT *
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28847
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",Paramount
-http://servidoriptv.mine.nu:37001/sidney/sidney/2420
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPACE
-http://servidoriptv.mine.nu:37001/claudia/123456/2516
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAcE
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28486
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPaCE
-http://servidoriptv.mine.nu:37001/sidney/sidney/2516
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",Space
-ttp://tv.factoryiptv.com:80/carlos/carlos123/36944
-#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNT
-http://servidoriptv.mine.nu:37001/claudia/123456/2515
-#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNT HD
-http://servidoriptv.mine.nu:37001/sidney/sidney/2515
-#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNt
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28458
-#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",tnt
-http://psrv.io:80/REb9CZb5dyPrd/8195515708/18536
-#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TnT
-http://tv.factoryiptv.com:80/carlos/carlos123/36934
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTION
-http://servidoriptv.mine.nu:37001/claudia/123456/2375
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ActioN
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28473
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTIOn
-http://servidoriptv.mine.nu:37001/sidney/sidney/2375
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CULT
-http://servidoriptv.mine.nu:37001/claudia/123456/2373
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE Cult
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28471
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CulT
-http://servidoriptv.mine.nu:37001/sidney/sidney/2373
-#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FUN
-http://servidoriptv.mine.nu:37001/claudia/123456/2371
-#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE Fun
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28832
-#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FuN
-http://servidoriptv.mine.nu:37001/sidney/sidney/2371
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PIPOCA
-http://servidoriptv.mine.nu:37001/claudia/123456/2369
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE Pipoca
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28467
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PipocA
-http://servidoriptv.mine.nu:37001/sidney/sidney/2369
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECiNE PIPOCA
-http://tv.factoryiptv.com:80/carlos/carlos123/36937
-#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PREMIUM
-http://servidoriptv.mine.nu:37001/claudia/123456/2367
-#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE Premium
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28465
-#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PremiuM
-http://servidoriptv.mine.nu:37001/sidney/sidney/2367
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TOUCH
-http://servidoriptv.mine.nu:37001/claudia/123456/2365
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE Touch
-http://servidoriptv.mine.nu:37001/sidney/sidney/2365
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE ToucH
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28463
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TouCH
-http://tv.factoryiptv.com:80/carlos/carlos123/36935
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
-http://servidoriptv.mine.nu:37001/claudia/123456/6616
-#EXTINF:-1 tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt.png" group-title="TELECINES",TNT SERIES
-http://servidoriptv.mine.nu:37001/claudia/123456/2359
-#EXTINF:-1 tvg-logo="https://imgur.com/dioXXVw.png" group-title="TELECINES",SYFY
-http://servidoriptv.mine.nu:37001/claudia/123456/2377
+#EXTINF:-1 tvg-logo="https://imgur.com/NtR5i4D.png" group-title="CANAIS DE SÉRIES",SONY
+http://psrv.io:80/rafael1/rafael1/18714
+#EXTINF:-1 tvg-logo="https://imgur.com/NtR5i4D.png" group-title="CANAIS DE SÉRIES",Sony
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18714
+#EXTINF:-1 tvg-logo="https://imgur.com/wBVNCbL.png" group-title="CANAIS DE SÉRIES",FOX
+http://psrv.io:80/rafael1/rafael1/18667
+#EXTINF:-1 tvg-logo="https://imgur.com/wBVNCbL.png" group-title="CANAIS DE SÉRIES",Fox
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18667
+#EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX LIFE
+http://psrv.io:80/rafael1/rafael1/18665
+#EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX Life
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18665
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",STUDIO UNIVERSAL
+http://psrv.io:80/rafael1/rafael1/18556
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",Studio Universal
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18556
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",UNIVERSAL CHANNEL
+http://psrv.io:80/rafael1/rafael1/18520
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",Universal Channel
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18520
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",WARNER CHANNEL
+http://psrv.io:80/rafael1/rafael1/18513
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",Warner Channel
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18513
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",AXN
+http://psrv.io:80/rafael1/rafael1/18730
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",Axn
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18730
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",FX
+http://psrv.io:80/rafael1/rafael1/18653
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",Fx
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18653
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FOX PrEMIUM 1
+http://psrv.io:80/rafael1/rafael1/18663
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FOx PREMIUM 1
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18663
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FOX PREMiUM 1
+http://psrv.io:80/thaine/thaine/18663
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",TBS
+http://psrv.io:80/rafael1/rafael1/18554
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE SKY
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MUSIC CLIMA
+https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=853872102
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",TOP CLIPES
+https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",VH1
+http://psrv.io:80/rafael1/rafael1/18518
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",VH1 MegaHits
+http://psrv.io:80/rafael1/rafael1/18517
 
 --------------------------------------------------------------------------------------------------
 
@@ -194,253 +115,267 @@ http://servidoriptv.mine.nu:37001/claudia/123456/65633
 --------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTISHOW
-http://servidoriptv.mine.nu:37001/claudia/123456/2521
+http://psrv.io:80/rafael1/rafael1/18613
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULtiShow
-http://servidoriptv.mine.nu:37001/sidney/sidney/2521
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18613
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTIshOW
-http://psrv.io:80/REb9CZb5dyPrd/8195515708/18613
+http://psrv.io:80/thaine/thaine/18613
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTiSHOW
-http://psrv.io:80/REb9CZb5dyPrd/8195515708/18613
+http://canais.servidor.tv:8080/Bernadete/Bernadete123/1452
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV
-http://servidoriptv.mine.nu:37001/claudia/123456/2432
+http://psrv.io:80/rafael1/rafael1/18615
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV *
-http://servidoriptv.mine.nu:37001/sidney/sidney/2432
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",Mtv
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28538
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MtV
 http://psrv.io:80/REb9CZb5dyPrd/8195515708/18615
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",Mtv
+http://psrv.io:80/thaine/thaine/18615
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MtV
+http://canais.servidor.tv:8080/Bernadete/Bernadete123/1453
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atpVyuY.png" group-title="TV ABERTA",AGRO BRASIL
 http://tv.factoryiptv.com:80/fernando/fernando123/64673
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RJ
-http://servidoriptv.mine.nu:37001/claudia/123456/2530
+http://psrv.io:80/rafael1/rafael1/18416
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo Rj
-http://servidoriptv.mine.nu:37001/sidney/sidney/2530
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlObo RJ
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28340
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18416
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBo RJ
+http://canais.servidor.tv:8080/Bernadete/Bernadete123/1504
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO NORDESTE
-http://servidoriptv.mine.nu:37001/claudia/123456/2302
+http://psrv.io:80/rafael1/rafael1/18424
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO NORDEStE
+http://canais.servidor.tv:8080/Bernadete/Bernadete123/275
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO SP
-http://servidoriptv.mine.nu:37001/claudia/123456/2450
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO SP
-http://servidoriptv.mine.nu:37001/sidney/sidney/2450
+http://psrv.io:80/rafael1/rafael1/18410
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBO SP
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18410
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GlOBOSAT
-http://servidoriptv.mine.nu:37001/claudia/123456/2447
+http://psrv.io:80/rafael1/rafael1/18625
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAiS GlOBOSAT
-http://servidoriptv.mine.nu:37001/sidney/sidney/2447
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18625
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
-http://servidoriptv.mine.nu:37001/claudia/123456/2518
-http://servidoriptv.mine.nu:37001/sidney/sidney/1512
+http://psrv.io:80/rafael1/rafael1/18569
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",Sbt
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18569
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",BAND
-http://servidoriptv.mine.nu:37001/claudia/123456/2549
+http://psrv.io:80/rafael1/rafael1/18727
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band
-http://servidoriptv.mine.nu:37001/sidney/sidney/2549
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18727
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",bAND
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28650
+http://canais.servidor.tv:8080/Bernadete/Bernadete123/489
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="TV ABERTA",RECORD
-http://servidoriptv.mine.nu:37001/claudia/123456/9531
+http://psrv.io:80/rafael1/rafael1/18575
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="TV ABERTA",Record
-http://servidoriptv.mine.nu:37001/sidney/sidney/9531
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18575
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",VIVA
-http://servidoriptv.mine.nu:37001/claudia/123456/2512
+http://psrv.io:80/rafael1/rafael1/18515
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",Viva
-http://servidoriptv.mine.nu:37001/sidney/sidney/2512
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18515
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",ViVA
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28437
+http://canais.servidor.tv:8080/Bernadete/Bernadete123/2680
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="TV ABERTA",REDE TV
-http://servidoriptv.mine.nu:37001/claudia/123456/2519
+http://psrv.io:80/rafael1/rafael1/18572
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="TV ABERTA",REDe TV
-http://servidoriptv.mine.nu:37001/sidney/sidney/2519
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18572
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV ABERTA",FUTURA
+http://psrv.io:80/rafael1/rafael1/18655
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV ABERTA",FUtURA
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18655
 #EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/escola.png" group-title="TV ABERTA",TV ESCOLA
 http://psrv.io:80/REb9CZb5dyPrd/8195515708/18527
 #EXTINF:-1 tvg-logo="http://logo.streamstv.me/picon/BRCanalDOBoiTV.png" group-title="TV ABERTA",CANAL DO BOI
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/35871
+http://psrv.io:80/rafael1/rafael1/47323
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IiksGqK.png" group-title="TV ABERTA",Canal Rural
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28925
+http://psrv.io:80/rafael1/rafael1/47322
 #EXTINF:-1 tvg-logo="https://i.imgur.com/psIffwK.png" group-title="TV ABERTA",TV APARECIDA
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28452
+http://psrv.io:80/rafael1/rafael1/18530
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YrVFhaB.png" group-title="TV ABERTA",TV BRASIL
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28451
+http://psrv.io:80/rafael1/rafael1/18529
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YrVFhaB.png" group-title="TV ABERTA",REDE BRASIL
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28496
+http://psrv.io:80/rafael1/rafael1/18574
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aByVBGY.png" group-title="TV ABERTA",CANAL BRASIL
-http://clienteworld.com:8080/denilson/denilson123/8234
+http://u9in.club:8080/renato02/renato02/8234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aByVBGY.png" group-title="TV ABERTA",CANAl BRASIL
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/30933
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV ABERTA",FUTURA
-http://servidoriptv.mine.nu:37001/claudia/123456/6603
+http://psrv.io:80/rafael1/rafael1/18716
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQA7pwb.png" group-title="TV ABERTA",TV DIARIO
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rQA7pwb.png" group-title="TV ABERTA",TV DIARIO FORTALEZA HD
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28412
+http://psrv.io:80/rafael1/rafael1/18490
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQA7pwb.png" group-title="TV ABERTA",TV DIARIO FORTALEZA
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18490
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",TV CULTURA
 http://psrv.io:80/santiago/123456/18505
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",Tv CULTURA
 http://psrv.io:80/REb9CZb5dyPrd/8195515708/18505
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CAMARA
-http://psrv.io:80/santiago/123456/18528
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CaMARA
-http://psrv.io:80/REb9CZb5dyPrd/8195515708/18528
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",TV SENADO
-http://tv.factoryiptv.com:80/fernando/fernando123/57266
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",GNT
-http://servidoriptv.mine.nu:37001/claudia/123456/2529
+http://psrv.io:80/rafael1/rafael1/18645
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7iMrUX5.png" group-title="TV ABERTA",TV GAZETA
-http://servidoriptv.mine.nu:37001/claudia/123456/9521
+http://psrv.io:80/rafael1/rafael1/18362
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqHKvQa.png" group-title="TV ABERTA",TV A CRÍTICA
 https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CAMARA
+http://psrv.io:80/rafael1/rafael1/18528
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CAMARA
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18528
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",TV SENADO
+http://u9in.club:8080/renato02/renato02/7992
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",Tv SENADO
+http://u9in.club:8080/sandro/123456/7992
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BRASIL
-http://servidoriptv.mine.nu:37001/claudia/123456/16430
+http://psrv.io:80/rafael1/rafael1/47358
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN Brasil
-http://servidoriptv.mine.nu:37001/sidney/sidney/16430
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BrasiL
 http://psrv.io:80/REb9CZb5dyPrd/8195515708/47358
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BrasiL
+http://psrv.io:80/thaine/thaine/47358
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BRASIL HD
-http://list.deeplist.nl:80/atila/atila123/61949
+http://psrv.io:80/elizabeth/elizabeth/47358
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN Brasil HD
 http://u9in.club:8080/renato02/renato02/82363
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NEWS
-http://servidoriptv.mine.nu:37001/claudia/123456/9798
+http://psrv.io:80/rafael1/rafael1/18725
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NeWS
+http://canais.servidor.tv:8080/Bernadete/Bernadete123/1494
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BANd NEWs
-http://servidoriptv.mine.nu:37001/sidney/sidney/6648
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BaNd NEWs
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/29022
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
 http://psrv.io:80/REb9CZb5dyPrd/8195515708/18725
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BaNd NEWs
+http://psrv.io:80/thaine/thaine/18725
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
+http://psrv.io:80/elizabeth/elizabeth/18725
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BanD NEWS
 http://tv.factoryiptv.com:80/fernando/fernando123/42411
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWS
-http://servidoriptv.mine.nu:37001/claudia/123456/2454
+http://psrv.io:80/rafael1/rafael1/18651
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GlOBO NEWs
+http://canais.servidor.tv:8080/Bernadete/Bernadete123/1468
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBo NEWS
-http://servidoriptv.mine.nu:37001/sidney/sidney/2454
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28811
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWs
 http://psrv.io:80/REb9CZb5dyPrd/8195515708/18651
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
+http://psrv.io:80/thaine/thaine/18651
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWs
+http://psrv.io:80/elizabeth/elizabeth/18651
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoBo NEWS
 http://tv.factoryiptv.com:80/fernando/fernando123/36917
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
-http://servidoriptv.mine.nu:37001/claudia/123456/9528
+http://psrv.io:80/rafael1/rafael1/18577
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAl
-http://servidoriptv.mine.nu:37001/claudia/123456/2488
+http://psrv.io:80/rafael1/rafael1/18705
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAL
-http://clubsrv.me:80/3367464899/secure/1873
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18705
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY Central
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28628
+http://brazilgroup.xyz:8880/pedro/pedro123/634
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV Live
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28429
+http://psrv.io:80/rafael1/rafael1/18507
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEXSiYj.png" group-title="TV ABERTA",CANAL CURTA!
-http://servidoriptv.mine.nu:37001/claudia/123456/6629
+http://psrv.io:80/rafael1/rafael1/18703
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",BIS - Clipes MPB ao Rock
-http://servidoriptv.mine.nu:37001/claudia/123456/2547
+http://psrv.io:80/rafael1/rafael1/18721
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",BIS - 100% Música
-http://servidoriptv.mine.nu:37001/sidney/sidney/2547
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18721
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/21w4wLR.jpg" group-title="SERIADOS",DOIS HOMENS E MEIO
 http://psrv.io:80/REb9CZb5dyPrd/8195515708/19212
-#EXTINF:-1 tvg-logo="https://i.imgur.com/21w4wLR.jpg" group-title="SERIADOS",DOIS HOMENS & MEIO
-http://clubsrv.me:80/3367464899/secure/29908
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21w4wLR.jpg" group-title="SERIADOS",DOiS HOMENS & MEIO
+http://u9in.club:8080/renato02/renato02/32121
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21w4wLR.jpg" group-title="SERIADOS",DOIS HOMENS & MEIO 24H
+http://brazilgroup.xyz:8880/pedro/pedro123/11539
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8PbTRC.jpg" group-title="SERIADOS",TODO MUNDO ODEIA O CHRIS
 http://psrv.io:80/REb9CZb5dyPrd/8195515708/19185
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8PbTRC.jpg" group-title="SERIADOS",TODOS ODEIAM O CHRIS
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/29740
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/19193
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPORTV
-http://servidoriptv.mine.nu:37001/claudia/123456/2384
+http://psrv.io:80/rafael1/rafael1/18558
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SpOrTv
-http://servidoriptv.mine.nu:37001/sidney/sidney/2384
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18558
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTv 2
-http://servidoriptv.mine.nu:37001/claudia/123456/2388
+http://psrv.io:80/rafael1/rafael1/18561
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTV 2
-http://servidoriptv.mine.nu:37001/sidney/sidney/2388
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18561
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SporTV 3
-http://servidoriptv.mine.nu:37001/claudia/123456/2386
+hhttp://psrv.io:80/rafael1/rafael1/18559
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SPORTV 3
-http://servidoriptv.mine.nu:37001/sidney/sidney/2386
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18559
 #XTINF:-1 tvg-logo="https://i.imgur.com/SeY7Nc8.png" group-title="ESPORTES",BANDSPORTS
-http://servidoriptv.mine.nu:37001/claudia/123456/2548
+http://psrv.io:80/rafael1/rafael1/18723
 #XTINF:-1 tvg-logo="https://i.imgur.com/SeY7Nc8.png" group-title="ESPORTES",BAND SPORTS
-http://servidoriptv.mine.nu:37001/sidney/sidney/2548
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18723
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",Espn
-http://servidoriptv.mine.nu:37001/claudia/123456/2473
+http://psrv.io:80/rafael1/rafael1/18673
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",ESPN
-http://servidoriptv.mine.nu:37001/sidney/sidney/2473
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18673
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PSadGNe.png" group-title="ESPORTES",ESPN EXTRA
-http://servidoriptv.mine.nu:37001/claudia/123456/4254
+http://psrv.io:80/rafael1/rafael1/18674
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PSadGNe.png" group-title="ESPORTES",ESPN Extra
-http://servidoriptv.mine.nu:37001/sidney/sidney/4254
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18674
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuBBJ9H.png" group-title="ESPORTES",PREMIERE CLUBES
-http://servidoriptv.mine.nu:37001/claudia/123456/2416
+http://psrv.io:80/rafael1/rafael1/18582
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhwDAaQ.png" group-title="ESPORTES",Premiere ClUbes
 http://servidoriptv.mine.nu:37001/sidney/sidney/2416
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Fox-Sports.png" group-title="ESPORTES",FOX SPORTS
-http://servidoriptv.mine.nu:37001/claudia/123456/2463
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18582
 
 --------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Animal-Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
-http://servidoriptv.mine.nu:37001/claudia/123456/2551
+http://psrv.io:80/rafael1/rafael1/18734
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Animal-Planet.png" group-title="DOCUMENTÁRIOS",ANiMAL PLANET
-http://servidoriptv.mine.nu:37001/sidney/sidney/2551
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18734
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Channel.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
-http://servidoriptv.mine.nu:37001/claudia/123456/2543
+http://psrv.io:80/rafael1/rafael1/18701
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Channel.png" group-title="DOCUMENTÁRIOS",DiSCOVERY CHANNEL
-http://servidoriptv.mine.nu:37001/sidney/sidney/2543
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18701
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kys6DSK.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION
-http://servidoriptv.mine.nu:37001/claudia/123456/4248
+http://u9in.club:8080/renato02/renato02/8133
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIvz01B.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE
-http://servidoriptv.mine.nu:37001/claudia/123456/4249
+http://psrv.io:80/rafael1/rafael1/18693
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Theater.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER
-http://servidoriptv.mine.nu:37001/claudia/123456/2541
+http://psrv.io:80/rafael1/rafael1/18691
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrZtaCb.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD
-http://servidoriptv.mine.nu:37001/claudia/123456/2482
+http://psrv.io:80/rafael1/rafael1/18687
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",ID: INVESTIGAÇÃO DISCOVERY
-http://servidoriptv.mine.nu:37001/claudia/123456/2438
+http://psrv.io:80/rafael1/rafael1/18629
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
-http://servidoriptv.mine.nu:37001/sidney/sidney/2438
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18629
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",Id: INVESTIGAÇÃO DISCOVERY
-http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/29011
+http://psrv.io:80/thaine/thaine/18629
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
-http://servidoriptv.mine.nu:37001/claudia/123456/9500
+http://psrv.io:80/rafael1/rafael1/18609
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo.png" group-title="DOCUMENTÁRIOS",NATiONAL GEOGRAPHIC
-http://servidoriptv.mine.nu:37001/sidney/sidney/9500
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18609
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo-Wild.png" group-title="DOCUMENTÁRIOS",NATGEO WILD
-http://servidoriptv.mine.nu:37001/claudia/123456/2425
+http://psrv.io:80/rafael1/rafael1/18606
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo-Wild.png" group-title="DOCUMENTÁRIOS",NATGEO Wild
-http://servidoriptv.mine.nu:37001/sidney/sidney/2425
+http://psrv.io:80/REb9CZb5dyPrd/8195515708/18606
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/The-History-Channel.png" group-title="DOCUMENTÁRIOS",HISTORY
-http://servidoriptv.mine.nu:37001/claudia/123456/2362
+http://psrv.io:80/rafael1/rafael1/18631
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/H2more2history.png" group-title="DOCUMENTÁRIOS",H2
-http://servidoriptv.mine.nu:37001/claudia/123456/2528
+http://canais.servidor.tv:8080/Bernadete/Bernadete123/1465
 
 --------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: 18+ Hot
-http://psrv.io:80/REb9CZb5dyPrd/8195515708/27137
+http://canais.servidor.tv:8080/cassio/cassio123/4159
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEXO EXTREMO
-http://canais.servidor.tv:8080/Sport22/Sport22/54
+http://canais.servidor.tv:8080/cassio/cassio123/4161
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: 18+ Prive
-http://servidoriptv.mine.nu:37001/sidney/sidney/9582
+http://canais.servidor.tv:8080/cassio/cassio123/4160
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEXO VENUS
-http://canais.servidor.tv:8080/Sport22/Sport22/3976
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 1 24Hs
-http://servidoriptv.mine.nu:37001/sidney/sidney/9583
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 7 PRIVE
-http://canais.servidor.tv:8080/Sport22/Sport22/257
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX EXTREM
-http://servidoriptv.mine.nu:37001/claudia/123456/9580
+http://canais.servidor.tv:8080/cassio/cassio123/4162
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",AS BRASILEIRINHAS
+http://canais.servidor.tv:8080/cassio/cassio123/3977
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 7 MEN
+http://canais.servidor.tv:8080/cassio/cassio123/4141
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO MEN
+http://canais.servidor.tv:8080/cassio/cassio123/4142
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 2 24Hs
-http://servidoriptv.mine.nu:37001/sidney/sidney/9586
+http://canais.servidor.tv:8080/cassio/cassio123/3969
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 6 24Hs
-http://canais.servidor.tv:8080/Sport22/Sport22/3969
+http://canais.servidor.tv:8080/cassio/cassio123/257
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX HOT
-http://servidoriptv.mine.nu:37001/claudia/123456/9584
+http://canais.servidor.tv:8080/cassio/cassio123/54
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 3 24Hs
-http://servidoriptv.mine.nu:37001/sidney/sidney/9587
+http://canais.servidor.tv:8080/cassio/cassio123/49
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",PRIVÊ
-http://servidoriptv.mine.nu:37001/claudia/123456/9586
+http://canais.servidor.tv:8080/cassio/cassio123/4176
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 4 24Hs
-http://servidoriptv.mine.nu:37001/sidney/sidney/9590
+http://canais.servidor.tv:8080/cassio/cassio123/4203
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX EROTIC
-http://servidoriptv.mine.nu:37001/claudia/123456/9601
+http://canais.servidor.tv:8080/cassio/cassio123/13617
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 5 24Hs
-http://servidoriptv.mine.nu:37001/sidney/sidney/9591
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX REDLIGHT
-http://servidoriptv.mine.nu:37001/sidney/sidney/9592
+http://canais.servidor.tv:8080/cassio/cassio123/3976
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",PLAYBOY
+http://canais.servidor.tv:8080/cassio/cassio123/57
