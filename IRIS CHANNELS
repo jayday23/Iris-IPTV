@@ -121,11 +121,11 @@ http://canais.servidor.tv:8080/aquiles/aquiles123/1439
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TouCH
 http://canais.servidor.tv:8080/rafael1/rafael1/1439
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
-http://psrv.io:80/claudia/123456/18553
+http://viptv2.dyndns.tv:25461/sandro/1234/201
 #EXTINF:-1 tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt.png" group-title="TELECINES",TNT SERIES
-http://psrv.io:80/claudia/123456/18534
+http://viptv2.dyndns.tv:25461/sandro/1234/177
 #EXTINF:-1 tvg-logo="https://imgur.com/dioXXVw.png" group-title="TELECINES",SYFY
-http://psrv.io:80/claudia/123456/18566
+http://viptv2.dyndns.tv:25461/sandro/1234/175
 
 --------------------------------------------------------------------------------------------------
 
