@@ -105,17 +105,17 @@ http://psrv.io:80/rafael1/rafael1/18543
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE Premium
 http://psrv.io:80/claudia/123456/18543
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PRemium
-http://psrv.io:80/santiago/123456/18543
-#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PReMIUM
 http://list.deeplist.nl:80/helio/helio123/52590
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PReMIUM
+http://psrv.io:80/santiago/123456/18543
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TOUCH
-http://psrv.io:80/rafael1/rafael1/18541
+http://psrv.io:80/rafael1/rafael1/18542
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE Touch
-http://psrv.io:80/claudia/123456/18541
+http://psrv.io:80/claudia/123456/18542
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE ToucH
-http://psrv.io:80/santiago/123456/18541
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TouCH
 http://list.deeplist.nl:80/helio/helio123/927
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TouCH
+http://psrv.io:80/santiago/123456/18542
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
 http://psrv.io:80/rafael1/rafael1/18553
 #EXTINF:-1 tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt.png" group-title="TELECINES",TNT SERIES
