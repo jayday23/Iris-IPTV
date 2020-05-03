@@ -185,15 +185,15 @@ http://list.deeplist.nl:80/laercio/laercio123/2385
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULtiShow
 http://psrv.io:80/celina/celina/18614
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTISHOW
-http://psrv.io:80/claudia/123456/18614
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTIshOW
 http://vipeiptv.com:25461/Debora/Debora123/758377
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTIshOW
+http://psrv.io:80/claudia/123456/18614
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTIshoW
-http://u9in.club:8080/renato02/renato02/8190
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTishoW
-http://u9in.club:8080/claudia/123456/8190
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTiSHOW
 http://fonteangelusiptv.com:25461/guilherme/guilherme/92687
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTishoW
+http://list.deeplist.nl:80/fabiano/fabiano123/2385
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTiSHOW
+http://vipeiptv.com:25461/Claudia/Claudia/758377
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV
 http://psrv.io:80/celina/celina/18615
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV *
@@ -297,9 +297,9 @@ http://vipeiptv.com:25461/Debora/Debora123/772909
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BrasiL
 http://psrv.io:80/claudia/123456/47358
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BRASIL HD
-http://u9in.club:8080/renato02/renato02/83090
+http://list.deeplist.nl:80/fabiano/fabiano123/61949
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN Brasil HD
-http://u9in.club:8080/claudia/123456/83090
+http://vipeiptv.com:25461/Claudia/Claudia/772909
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NEWS
 http://list.deeplist.nl:80/laercio/laercio123/58683
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NeWS
@@ -309,9 +309,9 @@ http://vipeiptv.com:25461/Debora/Debora123/758074
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BaNd NEWs
 http://psrv.io:80/claudia/123456/18725
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
-http://u9in.club:8080/renato02/renato02/83083
+http://list.deeplist.nl:80/fabiano/fabiano123/58683
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BanD NEWS
-http://u9in.club:8080/claudia/123456/83083
+http://vipeiptv.com:25461/Claudia/Claudia/758074
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWS
 http://list.deeplist.nl:80/laercio/laercio123/5085
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GlOBO NEWs
@@ -321,9 +321,9 @@ http://vipeiptv.com:25461/Debora/Debora123/758071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
 http://psrv.io:80/claudia/123456/18651
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWs
-http://u9in.club:8080/renato02/renato02/83092
+http://list.deeplist.nl:80/fabiano/fabiano123/5085
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoBo NEWS
-http://u9in.club:8080/claudia/123456/83092
+http://vipeiptv.com:25461/Claudia/Claudia/758071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
 http://psrv.io:80/celina/celina/18577
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAl
@@ -340,7 +340,8 @@ http://psrv.io:80/celina/celina/18703
 http://psrv.io:80/celina/celina/18721
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",BIS - 100% Música
 http://psrv.io:80/claudia/123456/18721
- 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxC7zHJ.png" group-title="SERIADOS",A DIARISTA
 http://bldtv.vip:80/gerson/gerson123/62904 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/21w4wLR.jpg" group-title="SERIADOS",DOIS HOMENS E MEIO
