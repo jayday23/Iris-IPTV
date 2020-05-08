@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",
 
---------------------------------------------------------------------------------------------------
-
+___________________________ TELECINES | FILMES ___________________________
+ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMC
 http://psrv.io:80/rafael1/rafael1/18736
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AmC
@@ -57,90 +57,90 @@ http://vipeiptv.com:25461/Debora/Debora123/758143
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT
 http://psrv.io:80/rafael1/rafael1/18596
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT *
-http://list.deeplist.nl:80/fabiano/fabiano123/2472
+http://list.deeplist.nl:80/helio/helio123/2472
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",Paramount
 http://vipeiptv.com:25461/Debora/Debora123/758152
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPACE
 http://psrv.io:80/rafael1/rafael1/18564
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAcE
-http://list.deeplist.nl:80/fabiano/fabiano123/1327
+http://list.deeplist.nl:80/helio/helio123/1327
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPaCE
 http://vipeiptv.com:25461/Debora/Debora123/758101
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",Space
-http://list.deeplist.nl:80/laercio/laercio123/1327
+http://list.deeplist.nl:80/fabiano/fabiano123/1327
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNT
 http://psrv.io:80/rafael1/rafael1/18536
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",Tnt
-http://psrv.io:80/celina/celina/18536
+http://list.deeplist.nl:80/helio/helio123/2383
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TnT
-http://list.deeplist.nl:80/fabiano/fabiano123/2383
+http://bldtv.vip:80/cinthia/cinthia123/5056
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",Tnt *
-http://list.deeplist.nl:80/laercio/laercio123/2383
+http://psrv.io:80/celina/celina/18536
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",tNt
-http://fonteangelusiptv.com:25461/guilherme/guilherme/92852
+http://list.deeplist.nl:80/fabiano/fabiano123/2383
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTION
 http://psrv.io:80/rafael1/rafael1/18551
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECiNE ACTION
-http://psrv.io:80/celina/celina/18551
+http://list.deeplist.nl:80/helio/helio123/52588
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ActioN
-http://list.deeplist.nl:80/fabiano/fabiano123/52588
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTIOn
 http://vipeiptv.com:25461/Debora/Debora123/757915
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTIOn
+http://psrv.io:80/celina/celina/18551
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTiON
-http://list.deeplist.nl:80/laercio/laercio123/52588
+http://list.deeplist.nl:80/fabiano/fabiano123/52588
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CULT
 http://psrv.io:80/rafael1/rafael1/18549
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECiNE CULT
-http://psrv.io:80/celina/celina/18549
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE Cult
-http://list.deeplist.nl:80/fabiano/fabiano123/5096
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CulT
 http://vipeiptv.com:25461/Debora/Debora123/757918
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE Cult
+http://psrv.io:80/celina/celina/18549
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CulT
+http://list.deeplist.nl:80/helio/helio123/5096
 #EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FUN
 http://psrv.io:80/rafael1/rafael1/18547
 #EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE Fun
-http://list.deeplist.nl:80/fabiano/fabiano123/932
-#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FuN
 http://vipeiptv.com:25461/Debora/Debora123/757921
+#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FuN
+http://list.deeplist.nl:80/helio/helio123/932
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PIPOCA
 http://psrv.io:80/rafael1/rafael1/18545
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECiNE PIPOCA
-http://psrv.io:80/celina/celina/18545
+http://list.deeplist.nl:80/helio/helio123/930
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE Pipoca
-http://list.deeplist.nl:80/fabiano/fabiano123/930
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PipocA
 http://vipeiptv.com:25461/Debora/Debora123/757924
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PipocA
+http://psrv.io:80/celina/celina/18545
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECiNE PIPOCA
-http://list.deeplist.nl:80/laercio/laercio123/930
+http://list.deeplist.nl:80/fabiano/fabiano123/930
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PREMIUM
 http://psrv.io:80/rafael1/rafael1/18543
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECiNE PREMIUM
-http://psrv.io:80/celina/celina/18543
+http://list.deeplist.nl:80/helio/helio123/52590
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE Premium
-http://list.deeplist.nl:80/fabiano/fabiano123/52590
-#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PRemium
 http://vipeiptv.com:25461/Debora/Debora123/757927
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PRemium
+http://psrv.io:80/celina/celina/18543
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PReMIUM
-http://list.deeplist.nl:80/laercio/laercio123/52590
+http://list.deeplist.nl:80/fabiano/fabiano123/52590
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TOUCH
 http://psrv.io:80/rafael1/rafael1/18542
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECiNE TOUCH
-http://psrv.io:80/celina/celina/18542
+http://list.deeplist.nl:80/helio/helio123/927
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE Touch
-http://list.deeplist.nl:80/fabiano/fabiano123/927
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE ToucH
 http://vipeiptv.com:25461/Debora/Debora123/757930
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE ToucH
+http://psrv.io:80/celina/celina/18542
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TouCH
-http://list.deeplist.nl:80/laercio/laercio123/927
+http://list.deeplist.nl:80/fabiano/fabiano123/927
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
 http://psrv.io:80/rafael1/rafael1/18553
 #EXTINF:-1 tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt.png" group-title="TELECINES",TNT SERIES
 http://psrv.io:80/rafael1/rafael1/18534
 #EXTINF:-1 tvg-logo="https://imgur.com/dioXXVw.png" group-title="TELECINES",SYFY
 http://psrv.io:80/rafael1/rafael1/18566
-
---------------------------------------------------------------------------------------------------
-
+ 
+___________________________ SÉRIES ___________________________
+ 
 #EXTINF:-1 tvg-logo="https://imgur.com/NtR5i4D.png" group-title="CANAIS DE SÉRIES",SONY
 http://psrv.io:80/rafael1/rafael1/18714
 #EXTINF:-1 tvg-logo="https://imgur.com/NtR5i4D.png" group-title="CANAIS DE SÉRIES",Sony
@@ -188,28 +188,30 @@ https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",VH1
 http://list.deeplist.nl:80/fabiano/fabiano123/58718
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",VH1 MegaHits
-http://list.deeplist.nl:80/laercio/laercio123/58718
+http://list.deeplist.nl:80/helio/helio123/58718
  
 --------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTISHOW
-http://psrv.io:80/rafael1/rafael1/18614
+http://psrv.io:80/rafael1/rafael1/18613
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULtiShow
-http://list.deeplist.nl:80/fabiano/fabiano123/2385
+http://list.deeplist.nl:80/helio/helio123/2385
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTISHOW
-http://vipeiptv.com:25461/Debora/Debora123/758377
+http://bldtv.vip:80/cinthia/cinthia123/5249
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTIshOW
-http://vipeiptv.com:25461/Claudia/Claudia/758377
+http://vipeiptv.com:25461/Debora/Debora123/758377
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTIshoW
-http://fonteangelusiptv.com:25461/guilherme/guilherme/92687
+http://vipeiptv.com:25461/Geziel/Geziel123/758377
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTishoW
-http://list.deeplist.nl:80/laercio/laercio123/2385
+http://psrv.io:80/claudia/123456/18613
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTiSHOW
-http://psrv.io:80/claudia/123456/18614
+http://list.deeplist.nl:80/fabiano/fabiano123/2385
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV
 http://psrv.io:80/rafael1/rafael1/18615
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MtV
+http://bldtv.vip:80/cinthia/cinthia123/5251
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV *
-http://list.deeplist.nl:80/fabiano/fabiano123/5092
+http://list.deeplist.nl:80/helio/helio123/5092
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",Mtv
 http://psrv.io:80/claudia/123456/18615
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atpVyuY.png" group-title="TV ABERTA",AGRO BRASIL
@@ -218,9 +220,9 @@ http://psrv.io:80/rafael1/rafael1/18416
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBO RJ
 http://psrv.io:80/celina/celina/18416
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo Rj
-http://list.deeplist.nl:80/fabiano/fabiano123/1207
+http://list.deeplist.nl:80/helio/helio123/1207
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBo RJ
-http://list.deeplist.nl:80/laercio/laercio123/1207
+http://list.deeplist.nl:80/fabiano/fabiano123/1207
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO NORDESTE
 http://psrv.io:80/rafael1/rafael1/18424
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBO NORDESTE
@@ -236,19 +238,19 @@ http://vipeiptv.com:25461/Debora/Debora123/757971
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GLOBOSAT
 http://psrv.io:80/rafael1/rafael1/18625
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GlOBOSAT
-http://list.deeplist.nl:80/fabiano/fabiano123/5088
+http://list.deeplist.nl:80/helio/helio123/5088
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAiS GlOBOSAT
 http://vipeiptv.com:25461/Debora/Debora123/758399
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
 http://psrv.io:80/rafael1/rafael1/18569
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",Sbt
-http://list.deeplist.nl:80/fabiano/fabiano123/1208
+http://list.deeplist.nl:80/helio/helio123/1208
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",BAND
 http://psrv.io:80/rafael1/rafael1/18727
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band
 http://vipeiptv.com:25461/Debora/Debora123/758323
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",bAND
-http://list.deeplist.nl:80/fabiano/fabiano123/52595
+http://list.deeplist.nl:80/helio/helio123/52595
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="TV ABERTA",RECORD
 http://psrv.io:80/rafael1/rafael1/18575
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="TV ABERTA",Record
@@ -256,17 +258,17 @@ http://vipeiptv.com:25461/Debora/Debora123/758329
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",VIVA
 http://psrv.io:80/rafael1/rafael1/18515
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",Viva
-http://list.deeplist.nl:80/fabiano/fabiano123/2476
+http://list.deeplist.nl:80/helio/helio123/2476
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",ViVA
 http://vipeiptv.com:25461/Debora/Debora123/758392
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="TV ABERTA",REDE TV
 http://psrv.io:80/rafael1/rafael1/18572
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="TV ABERTA",REDe TV
-http://list.deeplist.nl:80/fabiano/fabiano123/52587
+http://list.deeplist.nl:80/helio/helio123/52587
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV ABERTA",FUTURA
 http://psrv.io:80/rafael1/rafael1/18655
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV ABERTA",FUtURA
-http://list.deeplist.nl:80/fabiano/fabiano123/20803
+http://list.deeplist.nl:80/helio/helio123/20803
 #EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/escola.png" group-title="TV ABERTA",TV ESCOLA
 http://psrv.io:80/rafael1/rafael1/18527
 #EXTINF:-1 tvg-logo="http://logo.streamstv.me/picon/BRCanalDOBoiTV.png" group-title="TV ABERTA",CANAL DO BOI
@@ -301,45 +303,45 @@ http://psrv.io:80/rafael1/rafael1/18528
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CAMARA
 http://psrv.io:80/claudia/123456/18528
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",TV SENADO
-http://u9in.club:8080/renato02/renato02/7992
+http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28454
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",Tv SENADO
-http://u9in.club:8080/claudia/123456/7992
+http://bldtv.vip:80/cinthia/cinthia123/4953
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BRASIL
 http://psrv.io:80/rafael1/rafael1/47358
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BRASiL
 http://vipeiptv.com:25461/Debora/Debora123/772909
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN Brasil
-http://list.deeplist.nl:80/fabiano/fabiano123/61949
+http://list.deeplist.nl:80/helio/helio123/61949
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BrasiL
-http://list.deeplist.nl:80/laercio/laercio123/61949
+http://vipeiptv.com:25461/Geziel/Geziel123/772909
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN BRASIL HD
-http://vipeiptv.com:25461/Claudia/Claudia/772909
+http://list.deeplist.nl:80/fabiano/fabiano123/61949
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgHPW.png" group-title="TV ABERTA",CNN Brasil HD
-http://fonteangelusiptv.com:25461/guilherme/guilherme/95374
+http://bldtv.vip:80/cinthia/cinthia123/166980
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NEWS
 http://psrv.io:80/rafael1/rafael1/18725
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NeWS
 http://vipeiptv.com:25461/Debora/Debora123/758074
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BANd NEWs
-http://list.deeplist.nl:80/fabiano/fabiano123/58683
+http://list.deeplist.nl:80/helio/helio123/58683
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BaNd NEWs
-http://list.deeplist.nl:80/laercio/laercio123/58683
+http://bldtv.vip:80/cinthia/cinthia123/43265
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
-http://vipeiptv.com:25461/Claudia/Claudia/758074
+http://vipeiptv.com:25461/Geziel/Geziel123/758074
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BanD NEWS
-http://fonteangelusiptv.com:25461/guilherme/guilherme/92962
+http://list.deeplist.nl:80/fabiano/fabiano123/58683
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWS
 http://psrv.io:80/rafael1/rafael1/18651
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GlOBO NEWs
 http://vipeiptv.com:25461/Debora/Debora123/758071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBo NEWS
-http://list.deeplist.nl:80/fabiano/fabiano123/5085
+http://list.deeplist.nl:80/helio/helio123/5085
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
-http://list.deeplist.nl:80/laercio/laercio123/5085
+http://bldtv.vip:80/cinthia/cinthia123/5184
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWs
-http://vipeiptv.com:25461/Claudia/Claudia/758071
+http://vipeiptv.com:25461/Geziel/Geziel123/758071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoBo NEWS
-http://fonteangelusiptv.com:25461/guilherme/guilherme/92959
+http://list.deeplist.nl:80/fabiano/fabiano123/5085
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
 http://psrv.io:80/rafael1/rafael1/18577
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAl
@@ -365,41 +367,41 @@ http://bldtv.vip:80/cinthia/cinthia123/61175
 #EXTINF:-1 tvg-logo="https://i.imgur.com/21w4wLR.jpg" group-title="SERIADOS",DOiS HOMENS & MEIO
 http://u9in.club:8080/renato02/renato02/32121
 #EXTINF:-1 tvg-logo="https://i.imgur.com/21w4wLR.jpg" group-title="SERIADOS",DOIS HOMENS & MEIO 24H
-http://psrv.io:80/celina/celina/19212
+http://psrv.io:80/rafael1/rafael1/19212
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8PbTRC.jpg" group-title="SERIADOS",TODO MUNDO ODEIA O CHRIS
-http://psrv.io:80/celina/celina/19185
+http://psrv.io:80/rafael1/rafael1/19185
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8PbTRC.jpg" group-title="SERIADOS",TODOS ODEIAM O CHRIS
-http://psrv.io:80/celina/celina/19193
+http://psrv.io:80/rafael1/rafael1/19193
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPORTV
-http://psrv.io:80/celina/celina/18558
+http://psrv.io:80/rafael1/rafael1/18558
 #EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SpOrTv
 http://psrv.io:80/claudia/123456/18558
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTv 2
-http://psrv.io:80/celina/celina/18561
+http://psrv.io:80/rafael1/rafael1/18561
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTV 2
 http://psrv.io:80/claudia/123456/18561
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SporTV 3
-http://psrv.io:80/celina/celina/18559
+http://psrv.io:80/rafael1/rafael1/18559
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SPORTV 3
 http://psrv.io:80/claudia/123456/18559
 #XTINF:-1 tvg-logo="https://i.imgur.com/SeY7Nc8.png" group-title="ESPORTES",BANDSPORTS
 http://psrv.io:80/claudia/123456/18723
 #XTINF:-1 tvg-logo="https://i.imgur.com/SeY7Nc8.png" group-title="ESPORTES",BAND SPORTS
-http://psrv.io:80/celina/celina/18723
+http://psrv.io:80/rafael1/rafael1/18723
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",Espn
-http://psrv.io:80/celina/celina/18673
+http://psrv.io:80/rafael1/rafael1/18673
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",ESPN
 http://psrv.io:80/claudia/123456/18673
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PSadGNe.png" group-title="ESPORTES",ESPN EXTRA
-http://psrv.io:80/celina/celina/18674
+http://psrv.io:80/rafael1/rafael1/18674
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PSadGNe.png" group-title="ESPORTES",ESPN Extra
 http://psrv.io:80/claudia/123456/18674
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuBBJ9H.png" group-title="ESPORTES",PREMIERE CLUBES
-http://psrv.io:80/celina/celina/18582
+http://psrv.io:80/rafael1/rafael1/18582
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhwDAaQ.png" group-title="ESPORTES",Premiere ClUbes
 http://psrv.io:80/claudia/123456/18582
 #EXTINF:-1 tvg-logo="http://logosigor.at.ua/Fox-Sports.png" group-title="ESPORTES",FOX SPORTS
-http://psrv.io:80/celina/celina/18582
+http://psrv.io:80/rafael1/rafael1/18582
 
 --------------------------------------------------------------------------------------------------
 
@@ -422,9 +424,9 @@ http://psrv.io:80/rafael1/rafael1/18687
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",ID: INVESTIGAÇÃO DISCOVERY
 http://psrv.io:80/rafael1/rafael1/18629
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
-http://list.deeplist.nl:80/fabiano/fabiano123/2469
+http://list.deeplist.nl:80/helio/helio123/2469
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",Id: INVESTIGAÇÃO DISCOVERY
-http://list.deeplist.nl:80/laercio/laercio123/2469
+http://list.deeplist.nl:80/fabiano/fabiano123/2469
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
 http://psrv.io:80/rafael1/rafael1/18609
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo.png" group-title="DOCUMENTÁRIOS",NATiONAL GEOGRAPHIC
@@ -436,7 +438,7 @@ http://vipeiptv.com:25461/Debora/Debora123/758314
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/The-History-Channel.png" group-title="DOCUMENTÁRIOS",HISTORY
 http://psrv.io:80/rafael1/rafael1/18631
 #EXTINF:-1 tvg-logo="http://logos3.ucoz.com/H2more2history.png" group-title="DOCUMENTÁRIOS",H2
-http://list.deeplist.nl:80/fabiano/fabiano123/1021
+http://list.deeplist.nl:80/helio/helio123/1021
 --------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",PLAYBOY TV
