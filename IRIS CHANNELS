@@ -220,90 +220,92 @@ http://list.deeplist.nl:80/helio/helio123/5092
 http://psrv.io:80/claudia/123456/18615
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atpVyuY.png" group-title="TV ABERTA",AGRO BRASIL
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RJ
-http://psrv.io:80/rafael1/rafael1/18416
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBO RJ
 http://psrv.io:80/celina/celina/18416
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo Rj
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBO RJ
 http://list.deeplist.nl:80/helio/helio123/1207
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBo RJ
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo Rj
 http://list.deeplist.nl:80/fabiano/fabiano123/1207
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBo RJ
+http://psrv.io:80/rafael1/rafael1/18416
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO PB
+http://bigforce.club:8880/erica/erica123/16044
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO NORDESTE
-http://psrv.io:80/rafael1/rafael1/18424
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBO NORDESTE
 http://psrv.io:80/celina/celina/18424
-#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO NORDEStE
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBO NORDESTE
 http://list.deeplist.nl:80/fabiano/fabiano123/17130
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO NORDEStE
+http://psrv.io:80/rafael1/rafael1/18424
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO SP
-http://psrv.io:80/rafael1/rafael1/18410
+http://psrv.io:80/celina/celina/18410
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLObo SP
 http://list.deeplist.nl:80/fabiano/fabiano123/17122
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBO SP
 http://vipeiptv.com:25461/Debora/Debora123/757971
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GLOBOSAT
-http://psrv.io:80/rafael1/rafael1/18625
+http://psrv.io:80/celina/celina/18625
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GlOBOSAT
 http://list.deeplist.nl:80/helio/helio123/5088
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAiS GlOBOSAT
 http://vipeiptv.com:25461/Debora/Debora123/758399
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
-http://psrv.io:80/rafael1/rafael1/18569
+http://psrv.io:80/celina/celina/18569
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",Sbt
 http://list.deeplist.nl:80/helio/helio123/1208
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",BAND
-http://psrv.io:80/rafael1/rafael1/18727
+http://psrv.io:80/celina/celina/18727
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band
 http://vipeiptv.com:25461/Debora/Debora123/758323
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",bAND
 http://list.deeplist.nl:80/helio/helio123/52595
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="TV ABERTA",RECORD
-http://psrv.io:80/rafael1/rafael1/18575
+http://psrv.io:80/celina/celina/18575
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="TV ABERTA",Record
 http://vipeiptv.com:25461/Debora/Debora123/758329
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",VIVA
-http://psrv.io:80/rafael1/rafael1/18515
+http://psrv.io:80/celina/celina/18515
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",Viva
 http://list.deeplist.nl:80/helio/helio123/2476
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",ViVA
 http://vipeiptv.com:25461/Debora/Debora123/758392
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="TV ABERTA",REDE TV
-http://psrv.io:80/rafael1/rafael1/18572
+http://psrv.io:80/celina/celina/18572
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="TV ABERTA",REDe TV
 http://list.deeplist.nl:80/helio/helio123/52587
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV ABERTA",FUTURA
-http://psrv.io:80/rafael1/rafael1/18655
+http://psrv.io:80/celina/celina/18655
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV ABERTA",FUtURA
 http://list.deeplist.nl:80/helio/helio123/20803
 #EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/escola.png" group-title="TV ABERTA",TV ESCOLA
-http://psrv.io:80/rafael1/rafael1/18527
+http://psrv.io:80/celina/celina/18527
 #EXTINF:-1 tvg-logo="http://logo.streamstv.me/picon/BRCanalDOBoiTV.png" group-title="TV ABERTA",CANAL DO BOI
-http://psrv.io:80/rafael1/rafael1/47323
+http://psrv.io:80/celina/celina/47323
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IiksGqK.png" group-title="TV ABERTA",Canal Rural
-http://psrv.io:80/rafael1/rafael1/47322
+http://psrv.io:80/celina/celina/47322
 #EXTINF:-1 tvg-logo="https://i.imgur.com/psIffwK.png" group-title="TV ABERTA",TV APARECIDA
 http://vipeiptv.com:25461/Debora/Debora123/26794
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YrVFhaB.png" group-title="TV ABERTA",TV BRASIL
-http://psrv.io:80/rafael1/rafael1/18529
+http://psrv.io:80/celina/celina/18529
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YrVFhaB.png" group-title="TV ABERTA",REDE BRASIL
-http://psrv.io:80/rafael1/rafael1/18574
+http://psrv.io:80/celina/celina/18574
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aByVBGY.png" group-title="TV ABERTA",CANAL BRASIL
-http://psrv.io:80/rafael1/rafael1/18716
+http://psrv.io:80/celina/celina/18716
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aByVBGY.png" group-title="TV ABERTA",CANAl BRASIL
 http://vipeiptv.com:25461/Debora/Debora123/758326
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQA7pwb.png" group-title="TV ABERTA",TV DIARIO
-http://psrv.io:80/rafael1/rafael1/18490
+http://psrv.io:80/celina/celina/18490
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQA7pwb.png" group-title="TV ABERTA",TV DIARIO FORTALEZA
 http://psrv.io:80/claudia/123456/18490
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",TV CULTURA
-http://psrv.io:80/rafael1/rafael1/18505
+http://psrv.io:80/celina/celina/18505
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",Tv CULTURA
 http://psrv.io:80/claudia/123456/18505
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",GNT
-http://psrv.io:80/rafael1/rafael1/18645
+http://psrv.io:80/celina/celina/18645
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7iMrUX5.png" group-title="TV ABERTA",TV GAZETA
-http://psrv.io:80/rafael1/rafael1/18362
+http://psrv.io:80/celina/celina/18362
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqHKvQa.png" group-title="TV ABERTA",TV A CRITICA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CAMARA
-http://psrv.io:80/rafael1/rafael1/18528
+http://psrv.io:80/celina/celina/18528
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CAMARA
 http://psrv.io:80/claudia/123456/18528
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",TV SENADO
