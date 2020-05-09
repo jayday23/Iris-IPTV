@@ -5,45 +5,45 @@
 ___________________________ TELECINES | FILMES ___________________________
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMC
-http://psrv.io:80/rafael1/rafael1/18736
+http://psrv.io:80/celina/celina/18736
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AmC
 http://list.deeplist.nl:80/fabiano/fabiano123/15406
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMc
 http://vipeiptv.com:25461/Debora/Debora123/758420
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOTuMOs.png" group-title="TELECINES",CINEMAX
-http://psrv.io:80/rafael1/rafael1/18709
+http://psrv.io:80/celina/celina/18709
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOTuMOs.png" group-title="TELECINES",CiNEMAX
 http://list.deeplist.nl:80/fabiano/fabiano123/5080
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOTuMOs.png" group-title="TELECINES",Cinemax
 http://vipeiptv.com:25461/Debora/Debora123/758095
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",HBO
-http://psrv.io:80/rafael1/rafael1/18637
+http://psrv.io:80/celina/celina/18637
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",HBo
 http://list.deeplist.nl:80/fabiano/fabiano123/1209
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",hBO
 http://vipeiptv.com:25461/Debora/Debora123/758056
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBO 2
-http://psrv.io:80/rafael1/rafael1/18640
+http://psrv.io:80/celina/celina/18640
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBo 2
 http://vipeiptv.com:25461/Debora/Debora123/758059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SIGNATURE
-http://psrv.io:80/rafael1/rafael1/18633
+http://psrv.io:80/celina/celina/18633
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SIGNAtURE
 http://vipeiptv.com:25461/Debora/Debora123/758068
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO PLUS
-http://psrv.io:80/rafael1/rafael1/18635
+http://psrv.io:80/celina/celina/18635
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO Plus
 http://vipeiptv.com:25461/Debora/Debora123/758065
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Tl1Iy.png" group-title="TELECINES",HBO FAMILY
-http://psrv.io:80/rafael1/rafael1/18638
+http://psrv.io:80/celina/celina/18638
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Tl1Iy.png" group-title="TELECINES",HBO Family
 http://vipeiptv.com:25461/Debora/Debora123/758062
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4GlYTjF.png" group-title="TELECINES",MAX
-http://psrv.io:80/rafael1/rafael1/18623
+http://psrv.io:80/celina/celina/18623
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4GlYTjF.png" group-title="TELECINES",Max
 http://vipeiptv.com:25461/Debora/Debora123/758146
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5x1eAPX.png" group-title="TELECINES",MAX PRIME
-http://psrv.io:80/rafael1/rafael1/18621
+http://psrv.io:80/celina/celina/18621
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5x1eAPX.png" group-title="TELECINES",Max Prime
 http://vipeiptv.com:25461/Debora/Debora123/758149
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cGxSfBq.png" group-title="TELECINES",MAX UP
@@ -51,25 +51,29 @@ http://list.deeplist.nl:80/fabiano/fabiano123/58701
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cGxSfBq.png" group-title="TELECINES",Max Up
 http://vipeiptv.com:25461/Debora/Debora123/758140
 #EXTINF:-1 tvg-logo="https://imgur.com/ewHyP3J.png" group-title="TELECINES",MEGAPIX
-http://psrv.io:80/rafael1/rafael1/18617
+http://psrv.io:80/celina/celina/18617
 #EXTINF:-1 tvg-logo="https://imgur.com/ewHyP3J.png" group-title="TELECINES",Megapix
 http://vipeiptv.com:25461/Debora/Debora123/758143
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT
-http://psrv.io:80/rafael1/rafael1/18596
+http://psrv.io:80/celina/celina/18596
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT *
 http://list.deeplist.nl:80/helio/helio123/2472
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",Paramount
 http://vipeiptv.com:25461/Debora/Debora123/758152
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPACE
-http://psrv.io:80/rafael1/rafael1/18564
+http://bigforce.club:8880/erica/erica123/1780
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPACE *
+http://psrv.io:80/celina/celina/18564
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",Space
+http://bldtv.vip:80/cinthia/cinthia123/5065
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAcE
 http://list.deeplist.nl:80/helio/helio123/1327
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPaCE
 http://vipeiptv.com:25461/Debora/Debora123/758101
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",Space
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPacE
 http://list.deeplist.nl:80/fabiano/fabiano123/1327
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNT
-http://psrv.io:80/rafael1/rafael1/18536
+http://bigforce.club:8880/erica/erica123/136
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",Tnt
 http://list.deeplist.nl:80/helio/helio123/2383
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TnT
@@ -79,7 +83,7 @@ http://psrv.io:80/celina/celina/18536
 #EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",tNt
 http://list.deeplist.nl:80/fabiano/fabiano123/2383
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTION
-http://psrv.io:80/rafael1/rafael1/18551
+http://bigforce.club:8880/erica/erica123/141
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECiNE ACTION
 http://list.deeplist.nl:80/helio/helio123/52588
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ActioN
@@ -89,7 +93,7 @@ http://psrv.io:80/celina/celina/18551
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTiON
 http://list.deeplist.nl:80/fabiano/fabiano123/52588
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CULT
-http://psrv.io:80/rafael1/rafael1/18549
+http://bigforce.club:8880/erica/erica123/1873
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECiNE CULT
 http://vipeiptv.com:25461/Debora/Debora123/757918
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE Cult
@@ -97,13 +101,13 @@ http://psrv.io:80/celina/celina/18549
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CulT
 http://list.deeplist.nl:80/helio/helio123/5096
 #EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FUN
-http://psrv.io:80/rafael1/rafael1/18547
+http://bigforce.club:8880/erica/erica123/2018
 #EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE Fun
 http://vipeiptv.com:25461/Debora/Debora123/757921
 #EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FuN
 http://list.deeplist.nl:80/helio/helio123/932
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PIPOCA
-http://psrv.io:80/rafael1/rafael1/18545
+http://bigforce.club:8880/erica/erica123/1774
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECiNE PIPOCA
 http://list.deeplist.nl:80/helio/helio123/930
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE Pipoca
@@ -113,7 +117,7 @@ http://psrv.io:80/celina/celina/18545
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECiNE PIPOCA
 http://list.deeplist.nl:80/fabiano/fabiano123/930
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PREMIUM
-http://psrv.io:80/rafael1/rafael1/18543
+http://bigforce.club:8880/erica/erica123/1773
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECiNE PREMIUM
 http://list.deeplist.nl:80/helio/helio123/52590
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE Premium
@@ -123,7 +127,7 @@ http://psrv.io:80/celina/celina/18543
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PReMIUM
 http://list.deeplist.nl:80/fabiano/fabiano123/52590
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TOUCH
-http://psrv.io:80/rafael1/rafael1/18542
+http://bigforce.club:8880/erica/erica123/1772
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECiNE TOUCH
 http://list.deeplist.nl:80/helio/helio123/927
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE Touch
@@ -133,11 +137,11 @@ http://psrv.io:80/celina/celina/18542
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TouCH
 http://list.deeplist.nl:80/fabiano/fabiano123/927
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
-http://psrv.io:80/rafael1/rafael1/18553
+http://psrv.io:80/celina/celina/18553
 #EXTINF:-1 tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt.png" group-title="TELECINES",TNT SERIES
-http://psrv.io:80/rafael1/rafael1/18534
+http://psrv.io:80/celina/celina/18534
 #EXTINF:-1 tvg-logo="https://imgur.com/dioXXVw.png" group-title="TELECINES",SYFY
-http://psrv.io:80/rafael1/rafael1/18566
+http://psrv.io:80/celina/celina/18566
  
 ___________________________ SÉRIES ___________________________
  
