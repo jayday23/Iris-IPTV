@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DXtduig.png" group-title="SERIADOS",BREAKING BAD 24HRS
+http://srv.tvprodigital.net:80/cleide/cleide123/34868
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TzznnG7.png" group-title="CINEMA",The Good Doctor S03E01 - Desastre
 http://list.deeplist.nl:80/series/elisiane/elisiane123/57395.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TzznnG7.png" group-title="CINEMA",The Good Doctor S03E02 - Dívidas
