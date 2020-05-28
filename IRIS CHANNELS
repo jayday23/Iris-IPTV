@@ -200,7 +200,7 @@ http://psrv.io:80/SF4P7PrbY9/coreurl.me/18665
 #EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX Life
 http://list.deeplist.nl:80/lucas/lucas1234/1037
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",STUDIO UNIVERSAL
-http://psrv.io:80/rafael1/rafael1/18556
+http://psrv.io:80/Fernando/123456/18556
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",Studio Universal
 http://list.deeplist.nl:80/lucas/lucas1234/5094
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",UNIVERSAL CHANNEL
@@ -284,25 +284,29 @@ http://list.deeplist.nl:80/lucas/lucas1234/17122
 #EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GlOBO SP
 http://list.deeplist.nl:80/elisiane/elisiane123/17122
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GLOBOSAT
-http://psrv.io:80/SF4P7PrbY9/coreurl.me/18625
+http://srv.tvprodigital.net:80/cleide/cleide123/9262
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GlOBOSAT
 http://list.deeplist.nl:80/lucas/lucas1234/5088
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAiS GlOBOSAT
 http://list.deeplist.nl:80/elisiane/elisiane123/5088
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
-http://psrv.io:80/SF4P7PrbY9/coreurl.me/18569
+http://srv.tvprodigital.net:80/cleide/cleide123/6889
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",Sbt
-http://list.deeplist.nl:80/lucas/lucas1234/1208
+http://list.deeplist.nl:80/lucas/lucas1234/58707
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBt
+http://psrv.io:80/SF4P7PrbY9/coreurl.me/18569
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",BAND
-http://psrv.io:80/SF4P7PrbY9/coreurl.me/18727
+http://srv.tvprodigital.net:80/cleide/cleide123/25542
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band
 http://list.deeplist.nl:80/lucas/lucas1234/52595
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",BANd
+http://psrv.io:80/SF4P7PrbY9/coreurl.me/18727
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",bAND
 http://list.deeplist.nl:80/elisiane/elisiane123/52595
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="TV ABERTA",RECORD
-http://psrv.io:80/SF4P7PrbY9/coreurl.me/18575
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="TV ABERTA",Record
 http://srv.tvprodigital.net:80/cleide/cleide123/7836
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="TV ABERTA",Record
+http://psrv.io:80/SF4P7PrbY9/coreurl.me/18575
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",VIVA
 http://srv.tvprodigital.net:80/cleide/cleide123/6848
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",VIVA *
@@ -492,24 +496,24 @@ http://list.deeplist.nl:80/helio/helio123/20825
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",XxX: VENUS
 http://list.deeplist.nl:80/helio/helio123/18088
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",[XXX] PlayBoy
-http://psrv.io:80/rafael1/rafael1/18787
+http://psrv.io:80/Fernando/123456/18787
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",[XXX] Sextreme
-http://psrv.io:80/rafael1/rafael1/18486
+http://psrv.io:80/Fernando/123456/18486
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",[XXX] SexyHot
-http://psrv.io:80/rafael1/rafael1/18485
+http://psrv.io:80/Fernando/123456/18485
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",[XXX] Venus
-http://psrv.io:80/rafael1/rafael1/18484
+http://psrv.io:80/Fernando/123456/18484
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",[XXX] BLUE HUSTLER
-http://psrv.io:80/rafael1/rafael1/33381
+http://psrv.io:80/Fernando/123456/33381
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",[XXX] BRAZZERS EUROPE
-http://psrv.io:80/rafael1/rafael1/33382
+http://psrv.io:80/Fernando/123456/33382
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",[XXX] CENTOXCENTO
-http://psrv.io:80/rafael1/rafael1/33384
+hhttp://psrv.io:80/Fernando/123456/33384
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",[XXX] EROXX
-http://psrv.io:80/rafael1/rafael1/33386
+http://psrv.io:80/Fernando/123456/33386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",[XXX] PINK-O
-http://psrv.io:80/rafael1/rafael1/33390
+http://psrv.io:80/Fernando/123456/33390
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",[XXX] PLAYBOY
-http://psrv.io:80/rafael1/rafael1/33391
+http://psrv.io:80/Fernando/123456/33391
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",[XXX] SEXT6SENSO
-http://psrv.io:80/rafael1/rafael1/33396
+http://psrv.io:80/Fernando/123456/33396
